@@ -1,0 +1,27 @@
+Botella de Leyden
+
+Botella de Leyden
+La botella de Leyden es un dispositivo eléctrico realizado con una botella de vidrio que permite almacenar cargas eléctricas. Históricamente la botella de Leyden fue el primer tipo de condensador (eléctrico).
+Índice  [ocultar] 
+1 Historia
+2 Funcionamiento
+3 Experimento
+4 Véase también
+Historia[editar · editar código]
+
+En 1746, Pieter van Musschenbroek, que trabajaba en la Universidad de Leiden, efectuó un experimento para comprobar si una botella llena de agua podía conservar cargas eléctricas. Esta botella consistía en un recipiente con un tapón al cual le atraviesa una varilla metálica que queda sumergida en el líquido. La varilla tiene una forma de gancho en la parte superior al cual se le acerca un conductor cargado eléctricamente. Durante la experiencia un asistente separó el conductor y recibió una fuerte descarga al aproximar su mano a la varilla.
+Un año más tarde el británico William Watson descubrió que aumentaba la descarga si la envolvía con una capa de estaño. Siguiendo los nuevos descubrimientos, Jean Antoine Nollet tuvo la idea de reemplazar el líquido por hojas de estaño, quedando desde entonces esta configuración de la botella que se utiliza actualmente para experimentos. Watson pudo transmitir una descarga eléctrica de manera espectacular produciendo una chispa eléctrica desde una botella de Leyden a un cable metálico que atravesaba el río Támesis en 1747. Las botellas de Leyden eran utilizadas en demostraciones públicas sobre el poder de la electricidad. En ellas se producían descargas eléctricas capaces de matar pequeños ratones y pájaros, entre otros animales.
+Funcionamiento[editar · editar código]
+
+La botella de Leyden es un dispositivo que permite almacenar cargas eléctricas comportándose como un condensador. La varilla metálica y las hojas de estaño o aluminio conforman la armadura interna. La armadura externa está constituida por la capa que cubre la botella. La misma botella actúa como un material dieléctrico (aislante) entre las dos capas del condensador. El nombre de condensador proviene de las ideas del siglo XIX sobre la naturaleza de la carga eléctrica que asimilaban ésta a un fluido que podía almacenarse tras su condensación en un dispositivo adecuado como la botella de Leyden.
+Experimento[editar · editar código]
+
+Se desarrolla con una botella de cristal, para la cual, se corta un trozo de lámina de aluminio de uso doméstico, con ella y un rollo de película fotográfica, se envuelve el frasco. Posteriormente se coloca en el interior otro trozo de lámina de aluminio. En este punto del experimento podría emplearse pegamento pero existe el peligro de que los gases liberados en el interior puedan hacer explotar el frasco.
+Luego se realiza una perforación en la tapa de la botella, introduciéndose en esta un tornillo y se asegura en la parte interior de la botella con un trozo de alambre que puede obtenerse de un clip para papel. Este alambre debe hacer contacto con la lámina que se ha colocado en el interior con un trozo de cable (con varios hilos) y se sujeta en la parte de arriba del tornillo; a esta parte se le conoce como "cepillo de colección".
+Como generador se utiliza un tubo de PVC que se frota con un paño o un trozo de tela para generar electricidad estática.
+El aparato se hace funcionar colocando la botella de Leyden en el borde de una mesa, luego se debe hacer que el cepillo de colección toque al tubo de PVC, mientras esto se realiza, se desliza frotando en el paño o tela. El alambre que sale de la botella de Leyden es una conexión a tierra. Se puede sujetar el frasco por la parte que tiene la lámina de aluminio y se recibirá una descarga si se toca la lámina y el tornillo.
+Véase también[editar · editar código]
+
+Electricidad
+Historia de la electricidad
+Ley de Coulomb

@@ -1,0 +1,25 @@
+Helicobacter pylori
+
+Helicobacter pylori es una bacteria que infecta el epitelio gástrico humano. Muchas úlceras y algunos tipos de gastritis se deben a infecciones por H. pylori. En muchos casos, los sujetos infectados nunca llegan a desarrollar ningún tipo de síntoma. Esta bacteria vive exclusivamente en el estómago humano, siendo el único organismo conocido que puede subsistir en un ambiente tan extremadamente ácido. Es una bacteria espiral (de esta característica morfológica deriva el nombre de la Helicobacter) y puede «atornillarse» literalmente por sí misma para colonizar el epitelio estomacal.
+La bacteria fue llamada inicialmente Campylobacter pyloridis, después Campylobacter pylori (al corregirse la gramática latina) y en 1989, después de secuenciar su ADN, se vio que no pertenecía al género Campylobacter, y se la reemplazó dentro del género Helicobacter. El nombre pylori viene del latín pylorus, que significa ‘guardabarrera’, y hace referencia al píloro (la apertura circular del estómago que conduce al duodeno).
+
+Estructura de H. pylori
+H. pylori es una bacteria Gram negativa de forma espiral, de alrededor de 3 micras de largo y con un diámetro aproximado de unas 0,5 micras. Tiene unos 4–6 flagelos. Es microaerófila, es decir, requiere oxígeno pero a más bajas concentraciones de las encontradas en la atmósfera. Usa hidrógeno y metanogénesis como fuente de energía. Además es oxidasa y catalasa positiva.
+
+Modelo molecular de la enzima ureasa de H. pylori.
+Con su flagelo y su forma espiral, la bacteria "taladra" literalmente la capa de mucus del estómago, y después puede quedarse suspendida en la mucosa gástrica o adherirse a células epiteliales ya que produce adhesinas, (que son proteínas fijantes). H. pylori produce una enzima llamada "ureasa" que transforma la urea en amoniaco y en dióxido de carbono mediante la reacción: CO(NH2)2 ---> 2NH3 + CO2, y es el amoniaco que va neutralizar parcialmente la acidez gástrica (que sirve para disolver los alimentos y matar la mayor parte de bacterias digeridas). Lamentablemente el amoniaco es tóxico y va a maltratar la superficie de las células epiteliales y provocar el proceso de formación de las úlceras.
+Infección[editar · editar código]
+
+Tinción inmunohistoquímica de Helicobacter procedente de una biopsia estomacal.
+La infección por H. pylori puede ser sintomática o asintomática (sin efectos visibles en el enfermo); se estima que más del 70 % de las infecciones son asintomáticas. En ausencia de un tratamiento basado en antibióticos, una infección por H. pylori persiste aparentemente durante toda la vida. El sistema inmune humano es incapaz de erradicarla.
+Vía de infección[editar · editar código]
+La bacteria ha sido aislada de las heces, de la saliva y de la placa dental de los pacientes infectados, lo cual sugiere una ruta gastro-oral o fecal-oral como posible vía de transmisión. Otros medios de infección son ingerir agua y alimentos contaminados o incluso el traspase de fluidos de forma oral con una persona contaminada.
+Epidemiología[editar · editar código]
+Se estima que más de dos tercios de la población mundial se encuentra infectada por esta bacteria. La proporción de infección varía de nación a nación. En el mundo occidental (Oeste de Europa, Norteamérica y Australia) la proporción es de alrededor de un 25 por ciento de la población, siendo mucho mayor en el tercer mundo. En este último caso es común encontrar infecciones en niños, probablemente por las malas condiciones sanitarias. En los Estados Unidos la infección se da principalmente en personas de edad avanzada (más del 50 por ciento de éstas ocurren en personas de más de 60 años, frente a un 20 por ciento que se presentan en personas de menos de 40) y en los sectores más pobres.
+Estas discrepancias se atribuyen a una mayor higiene y al mayor uso de antibióticos en los países más ricos. De cualquier forma, en los últimos años están apareciendo cepas de H. pylori que presentan resistencia a antibióticos. En el Reino Unido hay incluso cepas resistentes a metronidazol.
+
+Modo de infección de H. pylori:
+1. H. pylori penetra la capa mucosa del estómago y se adhiere a la superficie de la capa mucosa epitelial gástrica.
+2. Produce amoníaco a partir de la urea, para neutralizar el ácido gástrico.
+3. Migración y proliferación de H. pylori al foco de infección.
+4. Se desarrolla la ulceración gástrica con destrucción de la mucosa, inflamación y muerte de las células mucosas.

@@ -1,0 +1,10 @@
+Energía sonora
+
+La energía sonora (o energía acústica) es la energía que transmiten o transportan las ondas sonoras. Procede de la energía vibracional del foco sonoro y se propaga a las partículas del medio que atraviesan en forma de energía cinética (movimiento de las partículas), y de energía potencial (cambios de presión producidos en dicho medio,o presión sonora). Al irse propagando el sonido a través del medio, la energía se transmite a la velocidad de la onda, pero una parte de la energía sonora se disipa en forma de energía térmica.1 La energía acústica suele tener valores absolutos bajos, y su unidad de medida es el joule (J). Aunque puede calcularse a partir de otras magnitudes como la intensidad sonora, también se pueden calcular otras magnitudes relacionadas,como la densidad o el flujo de energía acústica.
+
+La densidad de energía acústica o energía acústica por unidad de volumen es la cantidad media de energía acústica ( ε ) que corresponde a un volumen unidad. Equivale también al cociente entre la intensidad sonora y la velocidad del sonido.2 3 La unidad de medida es el julio por metro cúbico, J/m3
+
+
+Para una onda sonora plana, la densidad de energía se calcula a partir de la potencia cuadrática media (PRMS), la densidad del medio (ρo) y de la velocidad (vson2), según de la fórmula:
+
+La densidad de energía acústica total (cinética más potencial) equivale al producto de la densidad del medio por el cuadrado de la velocidad de las partículas en la dirección de propagación de la onda.

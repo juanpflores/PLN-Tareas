@@ -1,0 +1,145 @@
+SERIE DE TAYLOR
+ 
+¿Qué es?
+La serie de Taylor es una serie funcional y surge de una ecuación en la cual se puede encontrar una solución aproximada a una función.
+ 
+¿Para que sirve?
+La serie de Taylor proporciona una buena forma de aproximar el valor de una función en un punto en términos del valor de la función y sus derivadas en otro punto.
+ 
+Por supuesto, para hacer esta aproximación sólo se pueden tomar unas cuantas expresiones de esta serie, por lo que el resto resulta en un error conocido como el término residual, es a criterio del que aplica la serie en numero de términos que ha de incluir la aproximación.
+ 
+Pueden resolver por aproximación funciones trigonométricas, exponenciales, logarítmicas etc...
+ 
+¿Cómo funciona?
+La serie de Taylor se basa en ir haciendo operaciones según una ecuación general y mientras mas operaciones tenga la serie mas exacto será el resultado que se esta buscando. Dicha ecuación es la siguiente:
+
+o expresado de otra forma
+Donde n! es el factorial de n
+F(n) es la enésima derivada de f en el punto a
+ 
+Como se puede observar en la ecuación, hay una parte en la cual hay que desarrollar un binomio (x-a) n por lo que para simplificar el asunto se igualara a "a" siempre a 0. Para fines prácticos no afecta mucho en el resultado si se hacen muchas operaciones en la serie.
+ 
+Teorema de Taylor: Si la función f y sus primeras n+1 derivadas son continuas en un intervalo que contiene a a y a x, entonces el valor de la función en un punto x está dado por:
+ 
+ 
+La expansión en series de Taylor de n-ésimo orden debe ser exacta para un polinomio de n-ésimo orden.
+ 
+Para otras funciones continuas diferenciables, como las exponenciales o sinusoidales, no se obtiene una estimación exacta mediante un número finito de términos.
+ 
+El valor práctico de las series de Taylor radica en el uso de un número finito de términos que darán una aproximación lo suficientemente cercana a la solución verdadera para propósitos prácticos.
+ 
+¿Cuántos términos se requieren para obtener una “aproximación razonable”?
+La ecuación para el término residual se puede expresar como:
+R_n = O(h^{n + 1} )
+Significa que el error de truncamiento es de orden hn+1. El error es proporcional al tamaño del paso h elevado a la (n+1)-ésima potencia.
+ 
+ 
+Existen series de Taylor para:
+Función exponencial
+Logaritmo natural
+ 
+Serie Geométrica
+ 
+Teorema del binomio
+ 
+Funciones trigonométricas:
+Seno
+Coseno
+Tangente
+Secante
+Arco seno
+Arco tangente
+ 
+Funciones hiperbólicas:
+Senh
+Cosh
+Tanh
+Senh-1
+Tanh-1
+ 
+Función W de Lambert
+ 
+ 
+Error de Propagación:
+
+Supóngase que se tiene una función f(u). Considere que ũ es una aproximación de u (ũ = u+h, con h tamaño de paso). Por lo tanto, se podría evaluar el efecto de la discrepancia entre u y ũ en el valor de la función.
+
+\Delta f(\tilde u) = |f(u) - f(\tilde u)|
+
+Si u es cercana a ũ y f(u) es continua y diferenciable:
+
+{f(u) = f(\tilde u) + f'(\tilde u)(u - \tilde u) + {{f''(u)} \over {2!}}(u - \tilde u)^2 + \ldots \cr f(u) - f(\tilde u) \simeq f'(\tilde u)(u - \tilde u) \cr \Delta f(\tilde u) = |f'(\tilde u)|(u - \tilde u) \cr} 
+
+Estabilidad y Condición:
+
+La condición de un problema matemático relaciona a su sensibilidad los cambios en los datos de entrada.
+
+Un cálculo es numéricamente inestable si la incertidumbre de los valores de entrada aumentan considerablemente por el método numérico.
+
+Usando la serie de Taylor de primer orden:
+
+f(x) = f(\tilde x) + f'(\tilde x)(x - \tilde x)
+
+Estimando el error relativo de f(x) como en:
+
+{{f(x) - f(\tilde x)} \over {f(x)}} \simeq {{f'(\tilde x)(x - \tilde x)} \over {f(\tilde x)}}
+
+El error relativo de x está dado por:
+
+{{x - \tilde x} \over x}
+
+Un número condicionado puede definirse como la razón de estos errores relativos:
+
+Número Condicionado:
+
+{{\tilde xf'(\tilde x)} \over {f(\tilde x)}}
+
+El número condicionado proporciona una medida de hasta qué punto la incertidumbre de x es aumentada por f(x):
+
+Un valor de 1 nos indica que el error relativo de la función es idéntico al valor relativo de x.
+Un valor mayor que 1 nos indica que el error relativo es amplificado.
+Un valor menor que 1 nos indica que el error relativo está disminuyendo.
+Funciones con valores muy grandes nos dicen que están mal condicionados.
+El error numérico total es la suma de los errores numéricos de truncamiento y redondeo. Un camino para minimizar los errores de redondeo es incrementar el número de cifras significativas de la computadora.
+El error de truncamiento puede reducirse con un tamaño de paso más pequeño. Los errores de truncamiento pueden ser disminuidos cuando los de redondeo aumentan.
+No hay forma sistemática y general para evaluar el error numérico para todos los problemas.La estimación se basa en la experiencia y buen juicio del ingeniero.
+Evitar la resta de dos números casi iguales reordenando o reformulando el problema.
+Aritmética de precisión extendida.
+Clasificarlos y trabajar primero con los números más pequeños.
+Para predecir el error numérico un buen camino es emplear la Serie de Taylor.
+Por último, se deben repetir los experimentos numéricos modificando el tamaño de paso y comparando los resultados.
+ 
+A continuación se mostrará algunos ejemplos usando las serie de Taylor con las funciones e, seno y coseno.
+Función e
+Se puede aplicar la ecuación de las series de Taylor como mas sencillo le resulte a cada quien, una de tantas formas la explicare aquí.
+Lo primero que se hace es derivar unas 3 o 4 veces la función, esto porque algunas funciones empiezan a tener un patrón repetitivo después de cierto numero de derivaciones, como la función e.
+Después se tiene que sustituir "a" en cada una de las derivadas, pero como se decidió que "a" era 0 se sustituye un 0 en cada derivada y se observa que resultados da.
+
+Esto de sustituir en cada derivada es solo para simplificar la ecuacion de la serie y para darnos una idea de como se comporta la funcion.
+Una vez que se tiene una idea del comportamiento de la funcion se puede ir empezando a armar la ecuación de la serie
+
+Con las primeras operaciones que se hicieron al principio se puede ver como se ira llenando la serie mientras mas elementos se le agreguen para que el resultado sea mas preciso.
+
+Todo esto fue para ver como es la serie de la funcion e, ahora para conocer algun resultado simplemente se sustituye en donde quedaron las x y ya esta, por ejemplo
+
+Función Logaritmo natural
+para todo |x| < 1 y cualquier a complejo
+ 
+Función Seno
+En el caso de la función seno el procedimiento que se sigue es el mismo.
+Primero se deriva varias veces la funcion y se sustituye "a" o sea 0 en cada derivada:
+Aquí si se puede observar como comienza a ser repetitivo después de la tercera derivada.
+
+para todo x
+
+Ahora se puede formar la serie de Taylor observando el patrón:
+
+Por lo tanto se puede hacer una serie para todos los casos
+
+Función Coseno
+Para el coseno el procedimiento es el mismo.
+Primero se deriva varias veces la función y se sustituye en valor de "a" en cada una para observar el patrón.
+ 
+Despues se va llenando la serie de Taylor para despues hacer una ecuacion general:
+Por ultimo se desarrolla la ecuacion general para cualquier caso:
+ 

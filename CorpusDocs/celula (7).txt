@@ -1,0 +1,41 @@
+Citoplasma: Está rodeado por una membrana plasmática. Se divide en organelas, orgánulos e inclusiones. Los orgánulos citoplasmáticos incluyen membrana celular (plasmática), retículo endoplásmico (ergastoplasma), aparato de Golgi, centriolos (o centrosoma), mitocondrias, laminillas anulares, fibrillas y estructuras filamentosas, lisosomas y microtúbulos.
+Núcleo: Compuesto por membrana nuclear, cromatina y nucleolo.
+MEMBRANA CELULAR (PLASMÁTICA)
+
+Es un filtro altamente selectivo que conserva concentraciones desiguales de iones a ambos lados de ella y permite que las sustancias nutritivas entren a la célula y que los productos de desecho salgan de ella.
+
+Se han propuesto varios modelos para la membrana plasmática. De todos, el llamado "modelo de mosaico fluído" de Singer y Nicholson está más acorde con nuestros conocimientos actuales. Este modelo considera que la membrana celular consta de una capa bimolecular de fosfolípidos, en las que se intercalan unidades globulares de proteína a intervalos variables para formar un mosaico con la capa de lípidos. Se ha demostrado que estas proteínas integrantes de la membrana tienen regiones hidrófobas e hidrófilas, y es probable que las porciones hidrófobas están incluidas en la capa central de lípidos de la membrana, con las regiones hidrófilas expuestas en la superficie.
+
+RETICULO ENDOPLASMICO
+
+Se divide en granular y liso. El retículo endoplásmico granular presenta en las paredes de sus cisternas ribosomas. Allí se produce la síntesis de proteínas. Los ribosomas se unen a cadenas de RNA.
+
+RETÍCULO ENDOPLASMICO LISO (AGRANULOSO)
+
+En contraste con el retículo endoplásmico rugoso, el liso, como indica su nombre, carece de gránulos ribosómicos. Esta organela tiene forma tubular o vesicular y es más probable que aparezca como una profusión de conductos interconectados de forma y tamaño variables que como acúmulos de cisternas aplanadas, características del retículo endoplásmico rugoso. Las membranas del retículo endoplásmico liso se originan del retículo endoplásmico rugoso, y se pueden unir directamente con éste e indirectamente, por medio de vesículas pequeñas, con el aparato de Golgi. El retículo endoplásmico liso no participa en la síntesis de proteínas.
+
+RIBOSOMAS
+
+Se encuentran en todas las células, excepto eritrocitos maduros, y pueden estar unidos al retículo endoplásmico rugoso y formar parte de él, o encontrarse libres en el citoplasma.
+
+Sea que estén libres o unidos, los ribosomas se encuentran por lo general en acúmulos llamados polisomas o polirribosomas. Estos acúmulos representan grupos de ribosomas unidos por una cadena de RNA mensajero. Se ha sugerido que los ribosomas libres sintetizan proteínas que la célula usa para sus propias necesidades, como la replicación, en tanto que los ribosomas unidos a las membranas sintetizan proteínas que serán secretadas por la célula y usadas en otras partes del cuerpo.
+
+APARATO DE GOLGI
+
+El aparato o complejo de Golgi consta de pilas de sacos aplanados localizados en el citoplasma de muchas células.
+
+El aparato de Golgi participa en el flujo de membrana, en el transporte y concentración de materiales de secreción y su liberación de la célula, en la síntesis de algunos productos secretorios, en particular glucoproteínas y mucopolisacáridos, y en la formación de lisosomas primarios.
+
+LISOSOMAS
+
+Son estructuras citoplásmicas rodeadas de membrana que aparecen granulosas durante la inactividad, pero que adoptan el aspecto de vesículas cuando se activan. Se cree que se originan en el aparato de Golgi, pero en algunas células, o bajo determinadas condiciones, pueden derivarse de algunas porciones del retículo endoplásmico.
+
+Debido a que participan en la digestión, su aspecto depende de su estado funcional, lo que produce una gran variedad de aspectos, o pleomorfismo. Los lisosomas se encuentran en todas las células, excepto los eritrocitos, pero son particularmente abundantes en macrófagos, leucocitos neutrófilos, células hepáticas y células del túbulo proximal del riñón.
+
+En algunas células de vida prolongada (p.ej., neuronas, músculo cardiaco y hepatocitos), se acumulan grandes cantidades de cuerpos residuales (lipofucsina) con la edad.
+
+MITOCONDRIAS
+
+Como característica, son organelas rodeados de membrana, muy flexibles y libres en el citoplasma. A veces son contráctiles o móviles. Son propensas a hincharse en ciertos estados fisiológicos. Tienen gran importancia en el metabolismo energético como la principal fuente de adenosintrifosfato (ATP) y son el sitio de muchas reacciones metabólicas. En ellas radica el sistema del citocromo para transferencia de electrones capaz de fijar la energía obtenida de las oxidaciones del ciclo de Krebs para dar ATP.
+
+Las mitocondrias son la principal fuente de energía de las células. De manera adicional, concentran el calcio y conservan un medio cálcico general dentro del citoplasma.

@@ -1,0 +1,164 @@
+Historia de la ciencia
+La historia de la ciencia es la disciplina que estudia el desarrollo temporal de los conocimientos científicos y tecnológicos de las sociedades humanas, por un lado, y el impacto que ambos han tenido sobre la cultura, la economía y la política.
+La ciencia es un cuerpo de conocimiento empírico y teórico, producido por una comunidad global de investigadores que hacen uso de técnicas específicas para observar y explicar los fenómenos de la naturaleza, bajo el nombre de método científico. El análisis histórico de la ciencia recurre al método histórico tanto de la historia de las ideas como de la historia social.
+Su origen viene de los esfuerzos para sistematizar el conocimiento y se remonta a los tiempos prehistóricos, como atestiguan los dibujos que los pueblos del paleolítico pintaban en las paredes de las cuevas, los datos numéricos grabados en hueso o piedra o los objetos fabricados por las civilizaciones del neolítico. El objetivo primario de la ciencia es aun debatido por varios filósofos de la ciencia y científicos de distintas áreas y ha variado a lo largo del tiempo, sin embargo, dentro de los principales objetivos actuales se encuentran: 1) El mejor conocimiento de la naturaleza, 2) el mejor conocimiento de nosotros mismos, y 3) mejorar la calidad de vida de los miembros de nuestra especie.
+Índice  [ocultar] 
+1 Teorías y sociología
+2 Culturas primitivas
+3 La ciencia en la media luna fértil
+4 Época clásica
+4.1 Los griegos, los primeros filósofos de la ciencia
+4.2 Los presocráticos
+4.3 Platón y La dialéctica
+4.4 Aristóteles y la física
+4.5 Periodo alejandrino. Alejandría en la época romana
+5 Historiadores de la ciencia
+6 Véase también
+7 Bibliografía
+8 Referencias
+9 Enlaces externos
+Teorías y sociología[editar · editar código]
+
+La mayor parte del estudio de la historia de la ciencia ha sido dedicado a responder preguntas sobre qué es la ciencia, cómo funciona, y si esto expone el modelo a gran escala y con tendencias. En la sociología de la ciencia, en particular, se han enfocado los caminos en los que trabajan los científicos, mirando estrechamente los caminos que "producen" y "construyen" el conocimiento científico. Desde los años 1960, una tendencia común en los estudios de la ciencia (el estudio de la sociología y la historia de la ciencia) han querido acentuar " el componente humano" dentro del conocimiento científico, y la opinión sobre los datos científicos más evidentes, sin valor y sin contexto.
+Una de las causas principales de preocupación y controversia en la filosofía de la ciencia ha sido la de preguntarse sobre la naturaleza "del cambio de teoría" en la ciencia. Tres filósofos en particular son los que representan los pilares principales de este debate: Karl Popper, quien argumentó que el conocimiento científico es progresivo y acumulativo; Thomas Kuhn, en cuya opinión el conocimiento científico se mueve gracias a una serie de revoluciones científicas y no es necesariamente progresiva, y Paul Feyerabend, quien argumentó que el conocimiento científico no es acumulativo o progresivo, y que no puede haber problema de demarcación, en términos de método, entre la ciencia y cualquier otra forma de investigación.
+Desde la publicación de Kuhn de La estructura de las revoluciones científicas, en 1962, hubo un gran debate en la comunidad académica sobre el significado y la objetividad de la ciencia. A menudo, pero no siempre, un conflicto sobre "la verdad" de la ciencia ha hecho mella en la comunidad científica y en las ciencias sociales o humanidades (guerras de la ciencia).
+Culturas primitivas[editar · editar código]
+
+
+
+Tabla de arcilla mesopotámica, fechada en el año 492 a. C. que recogía información astronómica.
+En tiempos prehistóricos, los consejos y los conocimientos fueron transmitidos de generación en generación por medio de la tradición oral. El desarrollo de la escritura permitió que los conocimientos pudieran ser guardados y comunicados a través de generaciones venideras con mucho mayor fidelidad. Con la Revolución Neolítica y el desarrollo de la agricultura, que propició un exceso de alimentos, se hizo factible el desarrollo de las civilizaciones tempranas, porque podía dedicarse más tiempo a otras tareas que a la supervivencia.
+La ciencia en la media luna fértil[editar · editar código]
+
+A partir de sus principios en Sumeria (actualmente en Irak) alredgjhghngedor del 3500 a. C., en Mesopotamia, los pueblos del norte comenzaron a intentar registrar la observación del mundo con datos cuantitativos y numéricos sumamente cuidados. Pero sus observaciones y medidas aparentemente fueron tomadas con otros propósitos más que la ley científica. Un caso concreto es el del teorema de Pitágoras, que fue registrado, aparentemente en el siglo XVIII a. C.: la tabla mesopotámica Plimpton 322 registra un número de trillizos pitagóricos (3,4,5) (5,12,13)...., datado en el 1900 a. C., posiblemente milenios antes de Pitágoras,1 pero no era una formulación abstracta del teorema de Pitágoras.
+Los avances significativos en el Antiguo Egipto son referentes a la astronomía, a las matemáticas y a la medicina.2 Su geometría era una consecuencia necesaria de la topografía, con el fin de intentar conservar la disposición y la propiedad de las tierras de labranza, que fueron inundadas cada año por el Nilo. La regla del triángulo rectángulo y otras reglas básicas sirvieron para representar estructuras rectilíneas, el pilar principal de la arquitectura dintelada egipcia. Egipto era también el centro de la química y la investigación para la mayor parte del Mediterráneo.
+Época clásica[editar · editar código]
+
+Los griegos, los primeros filósofos de la ciencia[editar · editar código]
+Dentro del marco cultural en el que nos desenvolvemos (la llamada cultura occidental), algunos filósofos y científicos buscan las raíces de la ciencia moderna en la época de los antiguos griegos, en la Grecia clásica, hace unos 300 a.C. Ellos fueron los creadores de la lógica deductiva. Pero su filosofía natural tenía un defecto muy importante: consideraba innecesaria la comprobación experimental de las conclusiones. Era, incluso, degradante para el filósofo de la época sugerir que las conclusiones obtenidas en un proceso mental lógico necesitaban ser confirmadas por la comprobación experimental. Esta manera de ver las cosas no variaría, sustancialmente, hasta mediados del siglo XVII, fecha en la que, gracias a las figuras de Francis Bacon y René Descartes, los fundamentos experimentales, que son la base de la ciencia, llegan a ser filosóficamente respetables.
+Los presocráticos[editar · editar código]
+Sin embargo, para algunos, como el epistemólogo Geoffrey Ernest Richard Lloyd,3 el método científico hace su aparición en la Grecia del siglo VII a.C. Así Aristóteles fue uno de los primeros sabios en elaborar demostraciones científicas. Sin embargo, los filósofos denominados presocráticos fueron los primeros en preguntarse sobre los fenómenos naturales, por lo que fueron llamados φυσιολογοι (physiologoi, "fisiólogos")4 por Aristóteles, porque tenían un discurso racional sobre la naturaleza, investigaban sobre las causas naturales de los fenómenos, que llegaron a ser los primeros objetos del método.
+Tales de Mileto (ca. 625 - 547 a.C.) y Pitágoras (ca. 570 - 480 a.C.) contribuyeron principalmente al nacimiento de algunas de las primeras ciencias, como las matemáticas, la geometría teorema de Pitágoras, la astronomía o incluso la música.
+Sus primeras investigaciones están marcada por la voluntad de imputar la constitución del mundo (o κόσμος, cosmos) a un principio natural único (el fuego para Heráclito por ejemplo) o divino (para Anaximandro). Los presocráticos introducen los principios constitutivos de los fenómenos, los αρχή (arqué).
+
+Tales de Mileto
+
+ 
+
+Pitágoras
+
+ 
+
+Heráclito llorando, por Hendrick ter Brugghen (1628)
+
+ 
+
+Parménides de Elea
+
+ 
+
+Zenón de Elea
+
+Los presocráticos inician también una reflexión sobre la teoría del conocimiento. Constata que la razón por una parte y los sentidos por otra conducen a conclusiones contradictorias; Parménides opta por la razón y estima que solo ella puede llevar al conocimieno, debido a que nuestros sentidos nos confunden. Ellos, por ejemplo, nos enseñan que el movimiento existe, mientras que la razón nos enseña que no existe. Este ejemplo se ilustra por las célebres paradojas de su discípulo Zenón de Elea. Si Heráclito tiene una opinión opuesta en lo concerniente al movimiento, comparte la idea de que los sentidos son engañosos.
+Platón y La dialéctica[editar · editar código]
+Artículo principal: Dialéctica
+
+
+Busto de Platón.
+Con Sócrates y Platón, en relación a las palabras y a los diálogos, la razón (griego antiguo λόγοσ, lógos), y el conocimiento llegan a estar íntimamente ligados. Aparece el razonamiento abstracto y construido. Para Platón, las teorías de las formas son el modelo de todo lo que es sensible, siendo lo sensible un conjunto de combinaciones geométricas de elementos. Platón abre así la vía de la matematización de fenómenos.
+Las ciencias se sitúan en la vía de la filosofía, en el sentido del discurso sobre la sabiduría; por su parte, y a la inversa, la filosofía busca en las ciencias un fundamento seguro.
+La utilización de la dialéctica, que es la esencia misma de la ciencia, completa entonces a la filosofía, que tiene la primicia del conocimiento discursivo (por el discurso), o διάνοια, diánoia, en griego.
+Para Michel Blay "el método dialéctico es el único que, rechazando sucesivamente las hipótesis, se eleva hasta e principio mismo para asegurar sólidamente sus conclusiones". Sócrates expone lo principios en el Teeteto.5 Para Platón, la búsqueda de la verdad y de la sabiduría (la filosofía) es indisiciable de la dialéctica científica, es en efecto el sentido de la inscripción que figura en el frontón de la Academia, en Atenas: "Que ninguno entre aquí si no es geómetra".
+Aristóteles y la física[editar · editar código]
+Artículos principales: Aristóteles y Física.
+
+
+Aristóteles. Museo del Louvre.
+Es sobre todo con Aristóteles, que funda la física y la zoología, cuando la ciencia adquiere un método, basado en la deducción. A él se debe la primera formulación del silogismo y del razonamiento inductivo.6 Las nociones de "materia", "forma", "potencia" y "acto" fueron los primeros conceptos de elaboración abstracta.7 Para Aristóteles, la ciencia está subordinada a la filosofía ("es una filosofía secundaria", dijo) y tiene por objeto la búsqueda de los primeros principios de las primeras causas, lo que es discurso científico llamará el causalismo y que la filosofía denomina aristotelismo.
+Sin embargo, Aristóteles es el origen de un retroceso en el pensamiento en relación a ciertos presocráticos en cuanto al lugar de la Tierra en el espacio. Siguiendo a Eudoxo de Cnidos, imagina un sistema geocéntrico y considera que el cosmos es finito. Y será seguido en esto por sus sucesores en materia de astronomía, hasta Copérnico, con la única excepción de Aristarco, que propuso un sistema heliocéntrico.
+Determina, por otra parte, que el vivo está ordenado según una cadena jerarquizada, pero su teoría es sobre todo fijista. Establece la existencia de los primeros principios indemostrables, antecesores de las conjeturas matemáticas y lógicas. Descompone las proposiciones en nombres y verbos, base de la ciencia lingüística.
+Periodo alejandrino. Alejandría en la época romana[editar · editar código]
+
+
+Arquímedes.
+
+El periodo llamado alejandrino (de 323 a.C. - 30 a.C.) es el prolongamiento de la cultura griega y está marcado por progresos significativos en astronomía y en matemáticas, así como por algunos avances en física. La ciudad egipcia de Alejandría fue el centro intelectual de los sabios de la época, que eran griegos.
+Los trabajos de Arquímedes (292 a.C. - 212 a.C.) sobre el impulso hidrostático (principio de Arquímedes) condujeron a la primera ley física conocida después de Eratóstenes (276 a.C. - 194 a.C.) sobre el diámetro terrestre o de Aristarco de Samos (310 a.C. - 240 a.C.) sobre las distancias Tierra-Luna t Tierra-Sol que testimoniaron un gran ingenio.
+Apolonio de Pérgamo construyó el modelo de los movimientos de los planetas con la ayuda de órbitas excéntricas. Hiparco de Nicea (194 a.C. - 120 a.C.) perfecciona los instrumentos de observación como el dioptrio, el gnomon y el astrolabio.
+En álgebra y geometría, se divide el círculo en 360°, y se crea incluso el primer globo celeste (u orbe). Hiparco redacta también un tratado en 12 libros sobre el cálculo de los órdenes (denominados hoy en día trigonometría).
+
+
+Fragmento de los Elementos de Euclides.
+Euclides (325 a.C. - 265 a.C.) es el autor de los Elementos, que están considerados como uno de los textos fundadores de las matemáticas modernas.
+Sus postulados, como el denominado "postulado de Euclides", que expresa que "por un punto dado de una recta pasa una, e una sola, paralela a esta recta" está en la base de la geometría sistematizada.
+En astronomía, se propone una "teoría de los epiciclos" que permitirá a su vez el establecimiento de las tablas astronómicas más precisas. El conjunto se revelaría ampliamente funcional, permitiendo por ejemplo calcular por primera vez los eclipses lunares y solares.
+Historiadores de la ciencia[editar · editar código]
+
+La siguiente es una lista no exhaustiva de conocidos historiadores de la ciencia:
+Isaac Asimov
+José Babini
+Gaston Bachelard
+Jean C. Baudet
+Jacob Bronowski
+Mario Bunge
+Georges Canguilhem
+Bernard Cohen
+Alistair C. Crombie
+Pierre Duhem
+Paul Feyerabend
+Thomas P. Hughes
+Stanley L. Jaki
+Alexandre Koyré
+Helge Kragh
+Thomas Kuhn
+Imre Lakatos
+Anneliese Maier
+Abraham Pais
+Karl Popper
+Julio Rey Pastor
+Carl Sagan
+George Sarton
+José Manuel Sánchez Ron
+Lynn Thorndike
+Michel Serres
+Stephen Shapin
+Véase también[editar · editar código]
+
+Ciencia del Antiguo Egipto
+Ciencia Medieval
+Historia del método científico
+Historia de la ciencia en el Renacimiento
+Historia de la ciencia en la Argentina
+Historia de la ciencia en España
+Historia de la Física
+Historia de la electricidad
+Historia de la medicina
+Historia del registro del sonido
+Historiografía
+Bibliografía[editar · editar código]
+
+Comellas García-Llera, José Luis (2007). Historia sencilla de la ciencia. Ediciones Rialp. ISBN 978-84-321-3626-9.
+Peter Bowler; Ian Morus (2007). Panorama general de la ciencia moderna. Editorial Crítica. ISBN 978-84-8432-862-9.
+A. C. Crombie (1987). Historia de la ciencia: De San Agustín a Galileo. Alianza Universidad. ISBN 978-84-206-2994-0.
+Alistair Cameron Crombie (1993). Estilos de pensamiento científico a comienzos de la Europa moderna. Universitat de València. ISBN 978-970-07-7189-2. ISBN 9788460087106.
+Patricia Fara (2009). Breve historia de la ciencia. Ariel. ISBN 978-84-344-8830-4.
+Alfonso Pérez de Laborda (2005). Estudios filosóficos de historia de la ciencia. Encuentro. ISBN 9788474907698.
+Jacob Bronowski (Manuel Carbonell, trad.) (1951/1970). El sentido común de la ciencia. Península (Colección Historia/Ciencia/Sociedad 146). ISBN 84-297-1380-8.
+Jean C. Baudet (2011). Nuevas historias curiosas de la ciencia. Robinbook. ISBN 978-84-15256-15-1.
+Referencias[editar · editar código]
+
+Ir a ↑ [1]
+Ir a ↑ En la Odisea de Homero, este declaró que los egipcios eran expertos en medicina, más que en cualquier otra disciplina [2]
+Ir a ↑ 1970: Early Greek science. Thales to Aristotle, Londres: Chatto & Windus. Trad. fr. (1974): Les débuts de la science grecque. De Thalès à Aristote, Paris: Maspero, 1974.
+Ir a ↑ Del griego clásico φύσισ (phýsis, "naturaleza"), y λόγος (lógos, "palabra", "expresión", "razonamiento").
+Ir a ↑ Platón, 189e - 190a.
+Ir a ↑ Raymond Chevallier (1993): Sciences et techniques à Rome. PUF, col. "Que sais-je?": Paris, páx. 75
+Ir a ↑ Véxase L. Couloubaritsis (2000): La Physique d'Aristote: l'avènement de la science physique. París: Vrin, 2ª ed.
+Enlaces externos[editar · editar código]
+
+ Wikimedia Commons alberga contenido multimedia sobre Historia de la ciencia.
+Instituto de Historia de la Medicina y de la Ciencia Lopez Piñero, CSIC-Universidad de Valencia
+Fundación Canaria Orotava de Historia de la Ciencia
+Sociedad Española de Historia de las Ciencias y de las Técnicas (SEHCYT)
+Mil años de historia de la ciencia en Italia
+El gran Metro de la ciencia (mapa visual de la historia de la ciencia en forma de plano de Metro)

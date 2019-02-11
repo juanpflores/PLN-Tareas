@@ -1,0 +1,13 @@
+Un fractal es un objeto cuya estructura se repite a diferentes escalas. Es decir, por mucho que nos acerquemos o alejemos del objeto, observaremos siempre la misma estructura. De hecho, somos incapaces de afirmar a qué distancia nos encontramos del objecto, ya que siempre lo veremos de la misma forma.
+El termino fractal (del Latín fractus) fue propuesto por el matemático Benoît Mandelbrot en 1975. En la naturaleza encontramos muchas estructuras con geometría fractal, como por ejemplo, en el romanescu
+Existen muchísimos fractales, ya que como veremos, son muy fáciles de construir. Los ejemplos más populares son el conjunto “Mandelbrot” o el triángulo “Sierpinski”. Este último se realiza de una forma muy sencilla: dibujamos un triángulo grande, colocamos otros tres triángulos en su interior a partir de sus esquinas, repetimos el último paso.
+Sirpinski Triangle
+Otro sencillo ejemplo lo constituye la alfombra de Sierpinski:
+Sierpinski Carpet
+Como puede verse, la estrategia más sencilla para conseguir un fractal, es coger una figura y reproducirla en versiones más pequeñas. Sin embargo, se pueden conseguir objetos muchos más complejos.
+El conjunto de Mandelbrot fue propuesto en los años setenta, pero no fue hasta una década más tarde cuando pudo representarse gráficamente con un ordenador. Este conjunto se define a partir de un número “c” cualquiera, que define la siguiente sucesión:
+Manderbolt ec
+Para diferentes valores de “c”, obtenemos diferentes sucesiones. Si la sucesión es acotada, “c” pertenece al conjunto de Mandelbrot, y si no, queda excluido. Por ejemplo, para c=1 se obtiene: 0, 1, 2, 5, 26, 677, etc.(0, 1=02+1, 2=12+1, 5=22+1, etc.) Para c=-0.5 obtenemos 0, -0.5, -0.25, -0.4375, -0.30859375, -0.404769897, etc. De esta forma, c=-0.5 pertenece al conjunto y c=1 no.
+Si además consideramos números complejos, obtenemos la siguiente figura:
+MandelSet
+Otro fractal interesante es ‘La Curva del Dragon‘

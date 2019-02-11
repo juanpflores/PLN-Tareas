@@ -1,0 +1,64 @@
+Componentes Celulares
+Sep 20, 2012 | Categoría: Educación, Temas De Estudio	 | TAGS Acercaciencia, Animal, Célula, Cloroplastos, Componentes, Eucariota, Mitocondrias, Núcleo, Vegetal	 | Comentarioss 4
+En esta sección desglosaremos parte por parte a las células. Luego de este viaje por su interior podrás comprender un poco mejor porqué se las llama la “mínima unidad de la vida”.
+
+Como hemos comentado en la sección anterior llamada “la célula“, existen dos grandes grupos de células; las eucariotas y las procariotas. En esta sección nos dedicaremos a mencionar los compartimentos celulares eucariotas y sus funciones asociadas, ya que como recordarás, las células procariotas (bacterias) no tienen compartimentos intracelulares u orgánulos (organelos u organelas).
+
+
+Figura 1: Esquema de la célula animal (arriba) y de la vegetal (abajo).
+
+Elementos celulares
+
+Como hemos señalado, dentro de las células eucariotas, las hay de origen animal, vegetal o pueden pertenecer al grupo de los hongos o a los protistas. Nos centraremos aquí en estudiar los componentes celulares generales y sus funciones asociadas correspondientes a las células indiferenciadas animales y vegetales (Figura 1). Mencionaremos también algunas curiosidades sobre las células pertenecientes a los hongos y hablaremos sobre algunas de las características de los fascinantes protistas.
+
+Elementos celulares generales
+
+Las células eucariotas tienen un complejo sistema de membranas que incluyen a la envoltura externa o membrana plasmática y varios orgánulos:
+
+- La superficie celular externa o membrana plasmática
+Consiste en una bicapa fosfolipídica, la cual está formada también por proteínas e hidratos de carbono. Sus tres funciones principales son: aislar el contenido del entorno exterior, regular el flujo de materiales que entran y salen de la célula y permitir la interacción entre las células.
+
+- Orgánulos en el citoplasma:
+
+El Retículo endoplasmático (RE)
+
+Consiste en una red de tubos y canales interconectados encerrados por una membrana. Las células eucariotas tienen dos versiones de RE que son: RE liso y RE rugoso. La diferencia consiste en la ausencia y presencia de ribosomas asociados, respectivamente. Esta diferencia determina la función de cada tipo de RE. Enzimas asociadas a la membrana del RE liso está vinculadas a la síntesis de lípidos cómo los fosfolípidos y el colesterol, por ejemplo. Por otro lado, los ribosomas asociados a la membrana del RE rugoso están involucrados en la síntesis de proteínas de membrana.
+
+
+Figura 2: Aparato de Golgi. Fotografía tomada con microscopio electrónico de transmisión (SciencePhoto).
+
+El Aparato de Golgi
+
+Es un conjunto especializado de membranas derivadas del RE: las vesículas del RE se funden para dar origen al aparato de Golgi (Figura 2). Desempeña tres funciones principales dentro de la célula: separa las proteínas de los lípidos recibidos del RE según su destino final, modifica algunas moléculas (como por ejemplo, añadiendo carbohidratos a proteínas específicas) y empaqueta a estas moléculas que tienen otro destino celular.
+
+Las Mitocondrias
+
+
+Figura 3: Fotografía de mitocondria coloreada, tomada con Microscopio electrónico de barrido (SciencePhoto).
+
+Rodeadas por dos membranas diferentes en sus funciones y actividades enzimáticas, que separan tres espacios: el citosol, el espacio intermembrana y la matriz mitocondrial. La principal función de las mitocondrias es la producción de energía celular o adenosín trifosfato (ATP) a partir de la oxidación de metabolitos como glucosa, ácidos grasos y aminoácidos (Figura 3).
+
+Las Vacuolas
+
+Son como bolsas rodeadas por una membrana. Algunas son vacuolas “alimentarias” que se forman durante la “digestión celular” y también las hay permanentes, las cuales mantienen la integridad celular por medio de la osmoregulación.
+
+Los Lisosomas
+
+Se encuentran en todas las células animales y en los protistas. Estos orgánulos se encargan de la “digestión celular”. Cada lisosoma es una vesícula que brota del aparato de Golgi, con un contenido de enzimas hidrolíticas (hidrolasas, enzimas que actúan fragmentando los enlaces químicos de las macromoléculas). Las hidrolasas son sintetizadas en el RE rugoso y viajan hasta el aparato de Golgi, por transporte vesicular. Contienen enzimas hidrolíticas y proteolíticas que sirven para digerir los materiales de origen celular externo o interno.
+
+El Núcleo
+
+El núcleo contiene el material genético de las células y en general es el componente más grande. Se pueden destacar tres partes: la envoltura nuclear, la cromatina y el nucléolo. La envoltura o membrana nuclear que está formada por una doble envoltura que presenta poros. Por estos poros pasan las pequeñas moléculas, iones, el agua. En la envoltura nuclear exterior está tapizada por ribosomas (complejos de proteínas y ácido ribonucleico) y a continuación por el RE rugoso. La cromatina es ADN asociado a proteínas llamadas histonas. El nucléolo consiste en ARN ribosómico, proteínas y ribosomas en diversas etapas de síntesis. Puede haber uno o más y son los sitios donde se realiza la síntesis de los ribosomas.
+
+Una curiosidad… ¿sabías que los glóbulos rojos de los mamíferos no tienen núcleo?. ¿Te imaginas porqué?
+
+- Centrosoma
+Es un orgánulo que no está rodeado por una membrana. El mismo consiste en dos centriolos acoplados y sus funciones están relacionadas con la motilidad celular y con la organización del citoesqueleto. Durante la división celular los centrosomas se dirigen a polos opuestos de la célula, organizando el huso acromático (o mitótico). Para aclarar un poco más esto, los centríolos son una importante parte de los centrosomas, que están implicados en la organización de los microtúbulos en el citoplasma. La posición de los centríolos determina la posición del núcleo celular y juega un papel crucial en la reorganización espacial de la célula. Cabe destacar que los mismos están ausentes en las células vegetales, aunque las mismas son capaces de dividirse normalmente.
+
+- Citoesqueleto
+Los orgánulos no están a la deriva en el citoplasma sino, que están contenidos por una red de proteínas que forman el citoesqueleto. El mismo proporciona forma y sostén a las células. Está formado por varios tipos de fibras proteicas que incluyen a los microfilamentos, filamentos intermedios y microtúbulos.
+
+- Cilios y flagelos
+Se trata de especializaciones de la superficie celular que confieren movilidad a las células. Es una estructura basada en agrupaciones de microtúbulos (citoesqueleto), los cuales están organizados, en general, por nueve pares periféricos y un par central (estructura “9+2”). Ambos tipos de estructuras se diferencian en la mayor longitud y menor número de los flagelos, y en la mayor variabilidad de la estructura molecular de estos últimos.
+
+Debemos aclarar que cada tipo celular presentará orgánulos específicos adicionales según su especialización, como por ejemplo el acrosoma (lisosoma especializado) en los espermatozoides de algunas especies.

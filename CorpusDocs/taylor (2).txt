@@ -1,0 +1,35 @@
+Serie de Taylor
+
+
+A medida que aumenta el grado del polinomio de MacLaurin, se aproxima a la función. Se ilustran las aproximaciones de MacLaurin a sen(x), centradas en 0, de grados 1, 3, 5, 7, 9, 11 y 13.
+
+
+La gráfica de la función exponencial (en azul), y la suma de los primeros n+1 términos de su serie de Taylor en torno a cero (en rojo).
+En matemáticas, una serie de Taylor es una representación de una función como una infinita suma de términos.
+Estos términos se calculan a partir de las derivadas de la función para un determinado valor de la variable (respecto de la cual se deriva), lo que involucra un punto específico sobre la función. Si esta serie está centrada sobre el punto cero, se le denomina serie de McLaurin.
+Esta representación tiene tres ventajas importantes:
+La derivación e integración de una de estas series se puede realizar término a término, que resultan operaciones triviales.
+Se puede utilizar para calcular valores aproximados de la función.
+Es posible demostrar que, si es viable la transformación de una función a una serie de Taylor, es la óptima aproximación posible.
+Algunas funciones no se pueden escribir como serie de Taylor porque tienen alguna singularidad. En estos casos normalmente se puede conseguir un desarrollo en serie utilizando potencias negativas de x (véase Serie de Laurent. Por ejemplo f(x) = exp(−1/x²) se puede desarrollar como serie de Laurent.
+La serie de Taylor de una función f real o compleja ƒ(x) infinitamente diferenciable en el entorno de un número real o complejo a es la siguiente serie de potencias:
+
+f(a)+\frac{f'(a)}{1!}(x-a)+\frac{f''(a)}{2!}(x-a)^2+\frac{f^{(3)}(a)}{3!}(x-a)^3+\cdots
+que puede ser escrito de una manera más compacta como la siguiente sumatoria:
+
+\sum_{n=0}^{\infin} \frac{f^{(n)}(a)}{n!} (x-a)^{n}\,,
+donde n! es el factorial de n y f (n)(a) denota la n-ésima derivada de f para el valor a de la variable respecto de la cual se deriva. La derivada de orden cero de f es definida como la propia f y tanto (x − a)0 como 0! como  1 (0! = 1). En caso de ser a = 0, como ya se mencionara, la serie se denomina también de Maclaurin.
+Cabe destacar que en una serie de Taylor de potencias centrada en a de la forma \sum^{}_{}a_n(x-a)^n siempre se puede hacer el cambio de variable z=x-a (con lo que x=z+a en la función a desarrollar original) para expresarla como \sum^{}_{}a_nz^n centrada en 0. Luego hay que deshacer el cambio de variable. Por ejemplo, si se quiere desarrollar la función f(x)=x\ln x alrededor de a = 1 se puede tomar z=x-1, de manera que se desarrollaría f(z+1)=(z+1)\ln(z+1) centrada en 0.
+Historia[editar · editar código]
+
+El filósofo eleata Zenón de Elea consideró el problema de sumar una serie infinita para lograr un resultado finito, pero lo descartó por considerarlo imposible: el resultado fueron las paradojas de Zenón. Posteriormente, Aristóteles propuso una resolución filosófica a la paradoja, pero el contenido matemático de esta no quedó resuelto hasta que lo retomaron Demócrito y después Arquímedes. Fue a través del método exhaustivo de Arquímedes que un número infinito de subdivisiones geométricas progresivas podían alcanzar un resultado trigonométrico finito.1 Independientemente, Liu Hui utilizó un método similar cientos de años después.2
+En el siglo XIV, los primeros ejemplos del uso de series de Taylor y métodos similares fueron dados por Madhava de Sangamagrama.3 A pesar de que hoy en día ningún registro de su trabajo ha sobrevivido a los años, escritos de matemáticos hindúes posteriores sugieren que él encontró un número de casos especiales de la serie de Taylor, incluidos aquellos para las funciones trigonométricas del seno, coseno, tangente y arcotangente.
+En el siglo XVII, James Gregory también trabajó en esta área y publicó varias series de Maclaurin. Pero en 1715 se presentó una forma general para construir estas series para todas las funciones para las que existe y fue presentado por Brook Taylor, de quién recibe su nombre.
+Las series de Maclaurin fueron nombradas así por Colin Maclaurin, un profesor de Edinburgo, quién publicó el caso especial de las series de Taylor en el siglo XVIII.
+Función analítica[editar · editar código]
+
+Si una serie de Taylor converge para todo x perteneciente al intervalo (a-r, a+r) y la suma es igual a f(x), entonces la función f(x) se llama analítica. Para comprobar si la serie converge a f(x), se suele utilizar una estimación del resto del teorema de Taylor.
+Una función es analítica si y solo si se puede representar con una serie de potencias; los coeficientes de esa serie son necesariamente los determinados en la fórmula de la serie de Taylor.
+Se suele aproximar una función mediante un número finito de términos de su serie de Taylor. El Teorema de Taylor facilita la estimación cuantitativa del error de dicha aproximación. Se denomina polinomio de Taylor al número finito de los términos iniciales de la serie de Taylor de una función. La serie de Taylor de una función es, en caso de existir, el límite del polinomio de Taylor de esa función. Una función puede no ser igual a la serie de Taylor ni siquiera convergiendo tal serie para cada punto. Una función igual a su serie de Taylor en un intervalo abierto (o un disco en el plano complejo) se denomina función analítica..
+Además de la obvia aplicación de utilizar funciones polinómicas en lugar de funciones de mayor complejidad para analizar el comportamiento local de una función, las series de Taylor tienen muchas otras aplicaciones.
+Algunas de ellas son: análisis de límites y estudios paramétricos de los mismos, estimación de números irracionales acotando su error, teorema de L'Hopital para la resolución de límites indeterminados, estudio de puntos estacionarios en funciones (máximos o mínimos relativos o puntos sillas de tendencia estrictamente creciente o decreciente), estimación de integrales, determinación de convergencia y suma de algunas series importantes, estudio de orden y parámetro principal de infinitésimos, etc.

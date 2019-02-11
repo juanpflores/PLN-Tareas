@@ -1,0 +1,17 @@
+Un fractal es un objeto geométrico cuya estructura básica, fragmentada o irregular, se repite a diferentes escalas.1 El término fue propuesto por el matemático Benoît Mandelbrot en 1975 y deriva del Latín fractus, que significa quebrado o fracturado. Muchas estructuras naturales son de tipo fractal. La propiedad matemática clave de un objeto genuinamente fractal es que su dimensión métrica fractal es un número no entero.
+Si bien el término "fractal" es reciente, los objetos hoy denominados fractales eran bien conocidos en matemáticas desde principios del siglo XX. Las maneras más comunes de determinar lo que hoy denominamos dimensión fractal fueron establecidas a principios del siglo XX en el seno de la teoría de la medida.
+La definición de fractal en los años 1970, dio unidad a una serie de ejemplos, algunos de los cuales se remontaban a un siglo atrás. A un objeto geométrico fractal se le atribuyen las siguientes características:2
+Es demasiado irregular para ser descrito en términos geométricos tradicionales.
+Es autosimilar, su forma es hecha de copias más pequeñas de la misma figura.
+Las copias son similares al todo: misma forma pero diferente tamaño. Ejemplos de autosimilaridad:
+Fractales naturales, son objetos naturales que se pueden representar con muy buena aproximación mediante fractales matemáticos con autosimilaridad estadística. Los fractales encontrados en la naturaleza se diferencian de los fractales matemáticos porque los naturales son aproximados o estadísticos y su autosimilaridad se extiende sólo a un rango de escalas (por ejemplo a escala cercana a la atómica su estructura difiere de la estructura macroscópica).
+Conjunto de Mandelbrot, es un fractal autosimilar, generado por el conjunto de puntos estables de órbita acotada bajo cierta transformación iterativa no lineal.
+Paisajes fractales, este tipo de fractales generados computacionalmente pueden producir paisajes realistas convincentes.
+Fractales de pinturas.-Se utilizan para realizar el proceso de decalcomania.
+Su dimensión de Hausdorff-Besicovitch es estrictamente mayor que su dimensión topológica.
+Se define mediante un simple algoritmo recursivo.
+No basta con una sola de estas características para definir un fractal. Por ejemplo, la recta real no se considera un fractal, pues a pesar de ser un objeto autosimilar carece del resto de características exigidas.
+Un fractal natural es un elemento de la naturaleza que puede ser descrito mediante la geometría fractal. Las nubes, las montañas, el sistema circulatorio, las líneas costeras3 o los copos de nieve son fractales naturales. Esta representación es aproximada, pues las propiedades atribuidas a los objetos fractales ideales, como el detalle infinito, tienen límites en el mundo natural.
+El método de Newton intenta encontrar por iteración las raíces de la función F(Z)-1 = 0.
+Se itera la función F(Z) con cada punto del plano complejo (x + iy), siendo Z=(x1 + iy1) hasta la convergencia de x1 i y1, según la siguiente fórmula: Zn+1 = Zn - F(Zn) / F’(Zn), en donde F’(Z) es la derivada. Se ha coloreado con el algoritmo de la velocidad de convergencia, conceptualmente idéntico al de la velocidad de escape, y presenta similitudes con el método de Julia.
+Ejemplos de fractales de tipo Newton, de algunas funciones de variable compleja:

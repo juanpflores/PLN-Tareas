@@ -1,0 +1,74 @@
+Tabla 2.1 Componentes de la célula (Modificado de Solomon et al.  1998)
+ 
+Estructura
+Descripción
+Función
+Núcleo celular
+Núcleo
+Estructura grande rodeada por dos membranas y que contiene el nucleolo y los ribosomas.
+Información genética.
+Núcleolo
+Cuerpo granular en el núcleo, que consiste de RNA y proteínas.
+Síntesis de RNA ribosómico y ensamble de ribosomas.
+Cromosomas
+Compuesto de un complejo de DNA y proteínas llamado cromatina; visible en forma de estructuras cilíndricas cuando la célula se divide.
+Contiene genes (unidades de información hereditaria).
+Organelos
+citoplásmicos
+Membrana
+ plasmática
+Membrana que limita a las células vivas.
+Rodea el contenido celular; regula el movimiento de materiales; ayuda a conservar la forma celular; comunicación intercelular
+Retículo endoplásmico
+   
+    Liso
+  
+   Rugoso
+Red de membranas internas que se extienden en el citoplasma
+ 
+Carece de ribosomas en la superficie externa.
+ 
+Tiene ribosomas adheridos a la superficie externa.
+Síntesis de lípidos y proteínas de las membranas; origen de vesículas de transporte.
+Biosíntesis de lípidos y detoxificación de medicamentos.
+Síntesis de proteínas destinadas para la secreción o la incorporación a membranas.
+Ribosomas
+Gránulos compuestos de RNA y proteínas; algunos estan adheridos al retículo endoplásmico, y otros libres en el citosol.
+Síntesis de polipéptidos.
+Complejo de Golgi
+Sacos membranosos aplanados.
+Modificación y empaque de proteínas secretadas y clasificación de otras proteínas que se distribuyen a vacuolas u otros organelos.
+Vacuolas
+Sacos membranosos en plantas, hongos y algas.
+Transporte y almacenamiento de materiales, desechos y agua.
+Microcuerpos (e.g. peroxisomas)
+Sacos membranosos que contienen enzimas.
+Sitios de reacciones metabólicas.
+Mitocondrias
+Sacos de doble membrana, de las cuales la membrana interna se pliega y forma  crestas y contiene una matriz.
+Respiración celular y transformaciones de energía.
+Plastidios (e.g. cloroplastos)
+Estructura de doble membrana que envuelve a las membranas de tilacoides internas; contienen la clorofila.
+Fotosíntesis.
+Citoesqueleto
+Microtubulos
+Tubos huecos compuestos de subunidades de tubulina.
+Sostén estructural; movimiento de organelos y division celular; componentes de cilios, flagelos y centriolos.
+ 
+ 
+ 
+Estructura
+Descripcion
+Funcion
+Microfilamentos
+Estructuras sólidas a manera de bastón compuestos de actina.
+Sostén estructural; movimiento de la célula y división celular.
+Centriolos
+Pares de cílindros huecos en el centro de la célula que consisten de nueve tripletes de microtúbulos (9 x 3).
+Huso mitótico se forma entre los centriolos durante división celular en animales.  Ausente en la mayoría de las plantas.
+Cilios
+Proyecciones cortas que se extienden desde la superficie de la célula cubiertas por la membrana plasmática; compuesto por dos microtúbulos centrales y nueve periféricos (9 x 2).
+Locomoción en algunos organismos unicelulares y se utiliza para mover materiales en la superficie de algunos tejidos.
+Flagelos
+Proyecciones largas compuestas de dos microtúbulos centrales y nueve periféricos (9 x 2) que se extienden desde la superficie de la célula y están cubiertos por la membrana plasmática.
+Locomoción de espermatozoides y algunos eucariotes unicelulares.

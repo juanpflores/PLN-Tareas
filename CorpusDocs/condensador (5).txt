@@ -1,0 +1,99 @@
+Supercondensador
+Los supercondensadores también conocidos como condensadores electroquímicos de doble capa, supercapacitores, pseudocapacitores, ultracondensadores, ultracapacitores o simplemente EDLC por sus siglas en inglés, son dispositivos electroquímicos capaces de sustentar una densidad de energía inusualmente alta en comparación con los condensadores normales, presentando una capacitancia miles de veces mayor que la de los condensadores electrolíticos de alta capacidad.
+Mientras que un típico condensador electrolítico D-Cell tiene una capacitancia de decenas de miliFaradios (mF), la de un EDLC del mismo tamaño será de varios Faradios, o sea alrededor de dos o tres órdenes de magnitud mayor, pero generalmente con una menor tensión de trabajo. Los EDLC comerciales de mayor tamaño cuentan con capacitancias tan elevadas como 5000 F, alcanzando densidades de energía de hasta 30 Wh/kg.
+Índice  [ocultar] 
+1 Historia
+2 Principio de Pseudocapacitancia
+3 Clasificación y Elaboración de Supercondensadores
+4 Aplicaciones de Supercondensadores
+4.1 Automóviles híbridos
+4.2 Apoyo energético
+4.3 Almacenamiento de energía
+4.4 Sistemas de transferencia de potencia
+5 Véase también
+6 Referencias
+7 Enlaces externos
+Historia[editar · editar código]
+
+El primer supercondensador fue patentado por el ingeniero eléctrico H. E. Becker para la General Electric en 1957, y se basaba en el principio de aumento del área de las placas sustituyendo la interfaz cerámica o polimérica entre las placas con un material poroso de carbono en una disolución electrolítica, produciendo un aumento en el área de las placas y por tanto en la capacitancia.1
+El primer supercondensador fue ofrecido por Standard Oil of Ohio (SOHIO) en 1969, con una interfaz de carbono y solución electrolítica de sal de tetralquilamonio. A pesar de los enormes problemas derivados de la enorme resistencia interna de los primeros supercondensadores, en los siguientes veinte años fueron utilizados para el desarrollo de las primeras videocasetteras, respaldos de memoria para computadoras y cámaras de alta tecnología; usando para ello interfaces de carbono con placas de aluminio en plasma. A final de los ochentas se desarrolló el primer supercondensador de un faradio, y compañías rusas a principios de los noventa presentaron el primer supercondensador que superaba los cien faradios.
+El primer éxito para obtener supercondensadores rentables fue el uso de dióxido de rutenio por Conway y sus colaboradores en 1991, ya que fue el primer supercondensador que presentó una baja resistencia interna. Estos dispositivos generaron un gran interés debido a su aplicación a automóviles híbridos, por lo que se impulsó su investigación en todo el mundo. Una de las más importantes fue la iniciada en 1998 por el Departamento de Energía de los Estados Unidos y que aún sigue vigente.2 3 Actualmente los supercondensadores comerciales son de base carbono con un electrolito de metal alcalino o alcalinotérreo. Los principales productores son Panasonic y Maxwell Tecnologies. Donde se ocupan más actualmente son para diseño de sistemas de potencia para la estabilización de voltaje, por lo que encontramos supercondensadores de 1500 y 3000 faradios, con un peso que va del kilo y medio a los tres kilogramos.4 Continúa la investigación en autos híbridos y su uso en sistemas de energía solar y energía eólica.
+Principio de Pseudocapacitancia[editar · editar código]
+
+Los estudios en supercapacitancia llevaron a proponer un nuevo modelo de almacenaje de energía eléctrica: la pseudocapacitancia. En la capacitancia clásica el almacenamiento de energía está asociado a la acumulación de carga eléctrica entre las láminas del condensador gracias al medio aislante. Pero se descubrió que la acumulación de carga en los supercondensadores, principalmente en los de carbono con disolución electrolítica de un metal, era en cambio producida por la deficiencia electrónica producto de la interacción de los iones metálicos con el medio de carbono.
+La pseudocapacitancia es un fenómeno dependiente de la tensión, con lo que por lo tanto se posee una capacitancia variable que debe ser modelada adecuadamente. Sin embargo, los rangos de tensión en que son utilizados los supercondensadores permiten su manejo como un condensador convencional con un valor alto de capacitancia y una serie de resistencias e inductores.5 6 Además, se aumenta la capacitancia con una delgada capa de material aislante entre las caras de carbono.
+De acuerdo con este modelo teórico, uno de los principales aspectos a estudiar en el fenómeno de supercapacitancia es la concentración del electrolito y la naturaleza de los electrodos (denominación común de las barras conductoras) así como la naturaleza de la capa de aislante. Zhang indica que los electrolitos recomendados para la construcción de supercondensadores son los hidróxidos de sodio e Hidróxido de potasio, y reporta que hay un aumento de la capacitancia hasta un punto crítico en 2 y 10 molar respectivamente; sin embargo, el aumento de la concentración trae consigo un aumento constante de la resistencia interna del dispositivo.7 Por otro lado la presencia de las entrecaras de carbono incrementa la capacitancia únicamente si la porosidad promedio del medio es máxima, por lo que los diseños de nanotubos y nanoespumas son fundamentales para el desarrollo de supercondensadores. Por último Obreja indica que la capa ideal debe oscilar entre los 50 y los 200 micrómetros.8
+Clasificación y Elaboración de Supercondensadores[editar · editar código]
+
+Los supercondensadores actualmente se clasifican de acuerdo con los materiales de los que se encuentran elaborados. Actualmente se distinguen de acuerdo con Zhou2 y Dinh – Nguyen3 principalmente cuatro tipos:
+1. Supercondensadores electrolíticos de entrecaras de carbono de doble capa
+Los principales son los que utilizan hidróxido de sodio y potasio o ácido sulfúrico. En ellos la disolución se disocia en iones positivos de sodio o potasio, que ante la presencia de voltaje por aumento de la atracción entre cargas se acumula una mayor energía eléctrica.
+2. Supercondensadores no electrolíticos de entrecaras de carbono de doble capa
+Los principales son los que son elaborados como aerogeles, soles, los de nanotubos de carbono y carbón activado.
+Los soles son dispersiones de partículas sólidas en líquido que se encuentran indefinidamente en movimiento browniano. En cambio un gel es un sólido que posee una gran cantidad de líquido y una estructura que permite que se encuentren ambas fases combinadas. Para la formación de soles para condensadores se forma el óxido de metal elegido en agua, sea a altas temperaturas o con un exceso de base para formar el sol. Posteriormente el sol es gelado por deshidratación o aumento de pH. También se pueden formar soles orgánicos con resorcinol en formaldehído. El resultado de los procesos es la formación de un material homogéneo muy poroso que permite una alta capacitancia. Si el sol es combinado con la interfaz de carbono se calcula que puede alcanzarse una capacitancia de 400 faradios por gramo.9
+3. Supercondensadores acuosos de óxido de doble capa con pseudocapacitancia redox
+Los principales son los de óxido de litio, bióxido de rutenio, bióxido de iridio, óxido de cobalto y bióxido de manganeso.
+Los supercondensadores pueden fabricarse siguiendo la metodología de la sección anterior para elaborar un sol. Otra forma de obtenerlo es por la deposición de un óxido metálico por medio de un procedimiento de electrólisis. Se han hecho investigaciones donde se han alcanzado capacitancias de 400 F/g con óxido de rutenio.10 Supercondensadores más rentables de alrededor de 50 F/g se han logrado con óxido de níquel.9 Una forma alternativa para generar la estructura porosa es la adición de óxido de litio a un metal como el platino; este material se le agrega ácido para retirar el litio y mantener la estructura porosa de escala nanométrica.11
+4. Supercondensadores de polímeros conductores
+Se define como polímero conductor como una sustancia orgánica que conduce la electricidad de manera parecida a la de un metal, buena reversibilidad entre estado conductor y no conductor y flexibilidad mecánica. Los principales son los de politiofeno, polipirrol y polianilina. Tienen una densidad de energía mayor a 500 Watts por kilogramo, y aún se estudian sus propiedades de capacitancia.12
+Aplicaciones de Supercondensadores[editar · editar código]
+
+La investigación en supercondensadores se encuentra motivada por las enormes ventajas que su uso representa para el desarrollo de circuitos eléctricos:13
+Gran período de operación
+Capacidad de manejar altos valores de corriente
+Valor de carga fácil de monitorear
+Alta eficiencia
+Gran rango de tensión
+Gran rango de temperatura
+Ciclos de funcionamiento largos
+Facilidad de mantenimiento
+La vida útil de un supercondensador disminuye conforme aumenta su capacitancia, pero actualmente contamos con dispositivos que superan una vida útil de veinte años con pérdidas en la tensión suministrado de alrededor de un voltio. Debido a estas propiedades de vida útil y manejo de tensión y corriente los supercondensadores han sido utilizados en diversas aplicaciones:14 y prometen llenar la brecha entre los condensadores y baterías.
+Los EDLCs tienen una variedad de aplicaciones comerciales, especialmente en "suavización de energía" y los dispositivos de carga momentánea. Dentro de sus primeros usos cabe destacar como fuente de energía para el arranque de motores en grandes tanques de guerra y submarinos. Debido a que se ha reducido el coste de producción, han comenzado a aparecer en los camiones diésel y en locomotoras. Más recientemente se han convertido en un tema de gran interés en la llamada Energía verde, pues su capacidad de absorber energía rápidamente los hace particularmente adecuados para aplicaciones de freno regenerativo. Mientras que las pilas, por otro lado, tienen dificultades en esta tarea debido su lenta velocidad de carga. Por su tamaño y peso reducido, los EDLCs, se están adaptando para almacenar electricidad en vehículos eléctricos.
+Un condensador de alta capacidad tiene un gran rendimiento (el 98% de la carga se devuelve); almacena mucha energía en relación a su peso (4Wh/kg), aunque no tanto como una batería; no presentan efecto memoria y tienen una gran capacidad de carga y descarga rápida (5kW/kg).[cita requerida]
+Automóviles híbridos[editar · editar código]
+Artículo principal: Vehículo híbrido eléctrico
+Por la eficiencia en el uso de la energía estos dispositivos son un elemento prometedor para el desarrollo de medios de transporte que combinen la energía solar con la proveniente de combustibles fósiles. Su aprovechamiento se debe fundamentalmente a que permiten una mejor descarga de energía durante la aceleración del vehículo. En la prueba realizada en el año 2000 para los nuevos autobuses de transporte de la NASA que con el uso de condensadores se podía acelerar a 157 pies en 10 segundos con el mínimo de pérdidas de energía.
+Un desarrollo importante es el uso de supercondensadores para el desarrollo de la unidad de apoyo auxiliar (APU por sus siglas en inglés). Freightliner y Delphi demostraron su uso en sistemas automotrices de pasajeros, aunque BMW argumenta que hay poca sensibilidad para su regulación debido a las modificaciones hechas a la gasolina para reducir la emisión de contaminantes, por lo que es viable instalarlos en sistemas basados en hidrógeno.15
+Apoyo energético[editar · editar código]
+Muchos proyectos en ingeniería, como el diseño de elevadores, requieren de ciclos donde en una etapa se requiera una baja descarga de energía y otros de una alta descarga (como cuando el elevador desciende y asciende). Esta demanda requiere de sistemas que permitan una regulación precisa de la energía suministrada y una alta capacidad de almacenamiento de energía. De esta manera los supercondensadores suministran la energía necesaria para subir el elevador sin necesidad de sobrecargar la red eléctrica.
+En aplicaciones de energía solar es necesario estabilizar la tensión suministrado por las fotoceldas, por lo que se utilizan supercondensadores de 2400 F dispuestos en paralelo para estabilizar el suministro de energía eléctrica. De las fotoceldas generalmente se traslada la diferencia de potencial a una válvula de regulación de descarga ácida. Actualmente se estudia la manera de controlar la tensión a través de un banco de supercondensadores que permite disminuir los picos de tensión y proveer una corriente constante de 1.37 A por 45 segundos cada hora, gracias al almacenamiento de energía en el condensador y su liberación estable en un circuito equivalente RLC.16
+Almacenamiento de energía[editar · editar código]
+Uno de los usos más extendidos de supercondensadores es su uso en sistemas microelectrónicos, memorias de computadoras, relojes y cámaras de alta precisión. Su uso permite mantener el funcionamiento de los dispositivos durante horas e incluso días.17 Una aplicación estudiada ampliamente en la actualidad es el uso de supercondensadores en sistemas UPS unido a sistemas de transferencia de energía acoplados por inducción (ICPT). Se utilizan para facilitar la transferencia de energía, hacer más eficiente la carga de energía eléctrica, permitiendo el aislamiento de los sistemas UPS para el funcionamiento de sistemas eléctricos.18
+Sistemas de transferencia de potencia[editar · editar código]
+En el área de energía las propiedades de los supercondensadores son de gran importancia para la transferencia de energía. Los sistemas STATCOM (Compensadores Estáticos) son dispositivos de la familia de los sistemas de transmisión de corriente flexible alternante (FACTS), y se utiliza para el control de los picos de tensión en sistemas eléctricos. Cuando se conectan con sistemas de transferencia de potencia a elementos STATCOM, se produce una gran inductancia que produce un incremento en la corriente y picos de tensión, por lo que es necesario tener condensadores de gran capacitancia para compensar este fenómeno. Su uso permite mantener una corriente constante y menores picos de tensión para facilitar la transmisión de la energía eléctrica.19
+Véase también[editar · editar código]
+
+Autobús eléctrico
+Condensador eléctrico
+Grafeno
+Referencias[editar · editar código]
+
+Dorf RC, Svoboda JA (2000) Circuitos Eléctricos: Introducción al Análisis y Diseño. México: Editorial Alfaomega pp. 290 – 291
+Ir a ↑ «US patent 2800616 "Low voltage electrolytic capacitor"» (en inglés). Consultado el 20 de agosto de 2012.
+↑ Saltar a: a b Zhou C (2006) Carbon nanotube based electrochemical supercondensadors. Georgia : Georgia Institute of Techonology (Recuperado el 26 de noviembre del 2008 de ProQuest)
+↑ Saltar a: a b Dinh – Nguyen B (2003) Performance of supercondensadors as energy storage alternatives. Long Beach: California State University Long Beach (Recuperado el 26 de noviembre del 2008 de ProQuest)
+Ir a ↑ Barrero R, Tackoen X, Van Mierlo J (2008) Improving energy in public transport: stationary supercondensador based energy storage systems for a metro network. IEEE Vehicle Power and Propulsion Conference (VPPC), Septiembre 3-5, 2008, Harbin, China (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+Ir a ↑ Faranda R, Gallina M, Son DT (2007) A New Simplified model of Double Layer Condensadors. Milán: Dipartimento di Elettrotecnica, Politecnico di Milano (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+Ir a ↑ Cultura II AB, Salameh ZM (2008) Performance Evaluation of a Supercondensador Module for Energy Storage Applications. (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+Ir a ↑ Zhang D, Luo M, Li J, He J (2005) Surveying Into Some Aspects of Internal Resistance of Super Condensador (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+Ir a ↑ Obreja VVN, Iordache I, Petroi D et al (2006) On the Technology of Present-Day Manufactured Supercondensadors 2006 Electronics System integration Techonology Conference Dresden: Alemania (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+↑ Saltar a: a b Lin C (1998) Sol gel derived electrode materials for supercondensador application. University of South Carolina. (Recuperado el 26 de noviembre del 2008 de ProQuest)
+Ir a ↑ Lin Y, Hwang HS, LeeWJ Effect of Surface Treatment of Graphite Particles on the Composite Supercondensador of Hydrous Ruthenium Oxides Coatings by Cathodic Deposition Method. Microsc Microanal 2006; 12 (2): 1066 – 7
+Ir a ↑ Hu YS et al Electrochemical lithiation synthesis of nanoporous materials with superior catalytic and capacitive activity. Nature Materials 2006; 5: 713 – 7
+Ir a ↑ Herbert JJ (2000) Electrochemistry and structure of the conducting polymer Poli 3 – (4 Fluorophenil) Tiophene used in electrochemical supercondensadors Los Ángeles: University of California (Recuperado el 26 de noviembre del 2008 de ProQuest)
+Ir a ↑ Wei T, Wang S, Qi Z A (2007) Supercondensador Based Ride-Through System for Industrial Drive Applications. Proceedings of the 2007 IEEE International Conference on Mechatronics and Automation (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+Ir a ↑ Linzen D et al (2003) Analysis and Evaluation of Charge Balancing Circuits on Performance, Reliability and Lifetime of Supercondensador Systems. (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+Ir a ↑ Bontour S et al Design of a Parallel Fuel Cell - Supercondensador Auxiliary Power Unit (APU). Arcueil: Belfort Cedex (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+Ir a ↑ Glavin ME et al (2008) A Stand-alone Photovoltaic Supercondensador Battery Hybrid Energy Storage System. 2008 13th International Power Electronics and Motion Control Conference (EPE-PEMC 2008) (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+Ir a ↑ Carter R, Cruden A (2008) Strategies for control of a battery/supercondensador system in an electric vehicle. SPEEDAM 2008 International Symposium on Power Electronics, Electrical Drives, Automation and Motion (Recuperado el 26 de noviembre del 2008 de ProQuest)
+Ir a ↑ Madawala UK, Thrimawithana DJ, Kularatna N (2007)An ICPT-Supercondensador Hybrid System for Surge-Free Power Transfer IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+Ir a ↑ Srithorn et al THE CONTROL OF A STATCOM WITH SUPERCONDENSADOR ENERGY STORAGE FOR IMPROVED POWER QUALITY CIRED Seminar 2008: SmartGrids for Distribution Session 1 Paper No 0008 (Recuperado el 26 de noviembre del 2008 de IEEExplore)
+Enlaces externos[editar · editar código]
+
+Colabora en Commons. Wikimedia Commons alberga contenido multimedia sobre Supercondensador.
+Bus eléctrico carga rápida - Iveco revela ELLISUP Busworld
+Materiales de carbono para sistemas de almacenamiento de energía: supercondensadores y baterías de ion litio
+Supercondensadores de uso en vehículos (CSIC)
+Hong Kong utiliza 8 autobuses de supercapacitadores o capabuses. (en inglés)
+BMW Concept X3 Efficient Dynamics con condensadores
+Los coreanos dicen que los supercapacitadores de grafeno ya están listos para los vehículos eléctricos, Instituto Gwangju de Ciencia y Tecnología en (GIST).

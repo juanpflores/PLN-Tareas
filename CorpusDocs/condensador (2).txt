@@ -1,0 +1,54 @@
+Condensador variable
+Un condensador variable es un condensador cuya capacidad puede ser modificada intencionalmente de forma mecánica o electrónica. Son condensadores provistos de un mecanismo tal que, o bien tienen una capacidad ajustable entre diversos valores a elegir, o bien tienen una capacidad variable dentro de grandes límites. Los primeros se llaman trimmers y los segundos condensadores de sincronización, y son muy utilizados en receptores de radio, TV, etcétera, para igualar la impedancia en los sintonizadores de las antenas y fijar la frecuencia de resonancia para sintonizar la radio.
+
+
+Condensador variable.
+
+
+Diversos tipos de condensadores variables.
+Índice  [ocultar] 
+1 Variables mecánicamente
+1.1 Tipos de condensadores Variables mecánicamente
+1.1.1 Secciones Múltiples
+1.1.2 Mariposa
+1.1.3 Estátor fraccionado
+1.1.4 Diferencial
+2 Electrónicamente variables
+3 Transductores
+Variables mecánicamente[editar · editar código]
+
+La distancia entre las placas, o la cantidad de área de la superficie de la lámina que coincide, puede ser cambiada. La forma más común dispone un grupo de láminas semicirculares de metal en un eje rotatorio (“rotor”) ubicándose en los huecos existentes en una serie de láminas estacionarias (estátor) para que el área de solapamiento pueda cambiarse girando el eje. Se pueden usar como material dieléctrico láminas de plástico o de aire. Dependiendo de la forma de las placas rotatorias, se pueden crear varias funciones de capacidad según el ángulo, por ejemplo para obtener una escala de frecuencia lineal. Varios tipos de mecanismos de reducción de marchas se usan habitualmente para conseguir un control de sintonía más fino, por ejemplo para extender la variación de capacidad por un ángulo mayor, a menudo varias vueltas.
+Los condensadores más baratos se construyen a partir de aluminio capeado y láminas de plástico que se prensan conjuntamente de forma variable usando un tornillo. Sin embargo, estos llamados "apretados" (squeezers) no pueden proporcionar una capacitancia estable ni reproducible. También se usa una variante de esta estructura que se podría llamar "deslizador" y permite cambiar el área de solapamiento entre placas mediante el movimiento lineal de un conjunto de placas. Esto tiene numerosas ventajas prácticas en construcciones caseras o provisionales y se pueden encontrar en antenas de bucle resonante o radios de cristal. Los condensadores variables pequeños accionados por destornillador (por ejemplo, para establecer de forma precisa la frecuencia de resonancia en fábrica y que no se vuelva a ajustar) se llaman condensadores de ajuste de aire. Además de aire y plástico, estos condensadores pueden construirse usando un dieléctrico cerámico.
+Medición de la capacidad del condensador rotativo
+
+Cmin = 29 pF
+
+ 
+
+C = 269 pF
+
+ 
+
+Cmax = 520 pF
+
+Tipos de condensadores Variables mecánicamente[editar · editar código]
+Secciones Múltiples[editar · editar código]
+A menudo, se fijan las múltiples secciones del estator/rotor una detrás de otra sobre el mismo eje, lo que permite que varios circuitos de sintonización se puedan regular usando el mismo control, por ejemplo un preselector, un filtro de entrada y el correspondiente oscilador de un circuito receptor. Las secciones pueden tener la misma u otra capacidad nominal, por ejemplo 2 x 330 pF para un filtro de AM y un oscilador, y 3 x 45 pF para dos filtros y un oscilador en la sección FM del mismo receptor. Los condensadores con múltiples secciones incluyen a menudo condensadores de ajuste de aire en paralelo a las secciones variables, usadas para regular todos los circuitos de sintonización a la misma frecuencia.
+Mariposa[editar · editar código]
+Un condensador de mariposa es un tipo de condensador variable con dos conjuntos independientes de placas de estator enfrentadas, y un rotor en forma de mariposa, colocado de forma que al girar el rotor varíen por igual las capacidades entre el rotor y el estator. Los condensadores de mariposa se usan en circuitos de sintonización simétricos, por ejemplo fases de amplificadores RF de potencia en configuración empujar-tirar o sintonizadores de antena simétricos donde el rotor necesite ser “enfriado”, como al conectarlo a un RF (pero no necesariamente DC) potencial de tierra.
+Mientras el pico de corriente RF fluye normalmente de un estator al otro sin pasar por los contactos absorbentes, los condensadores en mariposa pueden soportar corrientes RF de gran resonancia, por ejemplo antenas de cuadro de campo magnético.
+En un condensador de mariposa, los estatores y cada mitad del rotor puede cubrir solamente un ángulo máximo de 90º ya que debe de haber una posición sin solapamiento entre rotor y estator correspondiente a la capacidad mínima, por lo que un giro de sólo 90º cubre el rango entero de capacidades.
+Estátor fraccionado[editar · editar código]
+El condensador variable de estator fraccionado está estrechamente relacionado y no tiene la limitación del ángulo de 90º ya que usa dos paquetes separados de electrodos de rotor dispuestos axialmente uno detrás de otro. En cambio, en un condensador con varias secciones, las placas del rotor de un condensador de estator fraccionado se montan en caras opuestas del eje del rotor. Un condensador de estator fraccionado se beneficia de electrodos más grandes comparado con un condensador de mariposa, así como también de un ángulo de rotación de hasta 180º, mientras que la separación de las placas del rotor provoca algunas pérdidas ya que la corriente RF tiene que atravesar el eje del rotor en lugar de circular directamente a través de cada aspa del rotor.
+Diferencial[editar · editar código]
+Los condensadores de diferencial variable también tienen dos estatores independientes, pero a diferencia del condensador de mariposa donde las capacidades en ambas caras se incrementan por igual mientras el rotor gira, en un condensador de diferencial variable la capacidad de uno de los sectores se incrementará mientras la otra disminuirá, manteniendo constante la capacidad estator a estator. Por tanto, los condensadores de diferencial variable pueden usarse en circuitos de capacidad potenciométricos.
+Electrónicamente variables[editar · editar código]
+
+El grosor de la capa reductora de un diodo semiconductor polarizado de forma inversa con el voltaje DC aplicado a través del diodo. Cualquier diodo muestra este efecto (incluyendo uniones p/n) en transistores), pero los dispositivos vendidos específicamente como diodos de capacitancia variable (también llamados varactores) están diseñados con una gran área de unión y un perfil de dopaje específicamente diseñado para maximizar la capacitancia. Su uso está limitado a bajas amplitudes de señal para evitar obvias distorsiones mientras que la capacitancia se vería afectada por el cambio en el voltaje de la señal, impidiendo su uso en las fases de entrada de los receptores de comunicaciones RF de alta calidad, donde añadirían niveles inaceptables de intermodulación. En frecuencias VHF y UHF, por ejemplo en radio FM o sintonizadores de televisión, el rango dinámico está limitado por el ruido en vez de por los grandes requisitos de manejo de señales, y los varactores se usan comúnmente en el recorrido de la señal.
+Los varactores se usan para modular la frecuencia en osciladores y para hacer osciladores de alta frecuencia controlados por voltaje (VCOs), el componente del núcleo en sintetizadores de frecuencia PLL que son omnipresentes en los equipamientos de comunicaciones modernos. En el fondo Un oscilador de radio frecuencia,un sistma de control electrónico industrial basa su cometido en ala inducción de cargas eléctricas para variar parametros establecidos
+Transductores[editar · editar código]
+
+La capacidad de los varactores se usa a veces para convertir un fenómeno físico en señales eléctricas.
+• En un micrófono condensador, el diafragma actúa como una placa de un condensador y las vibraciones producen cambios en la distancia entre el diafragma y la placa fija, cambiando el voltaje existente entre las placas del condensador.
+• Algunos tipos de sensores industriales utilizan un condensador como elemento para convertir cantidades físicas, como presión, desplazamiento o humedad relativa en una señal eléctrica como objeto de medida.
+• Los sensores capacitativos se pueden usar también en lugar de interruptores, por ejemplo en teclados de ordenadores o en botones táctiles de ascensores que no tienen partes móviles.

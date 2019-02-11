@@ -1,0 +1,12 @@
+Economía altruista
+La economía altruista es una rama de la economía expuesta por Robin Upton en el año 2004 en una presentación ante el Foro Social Europeo autónomo en la Escuela de Economía de Londres.
+Descripción[editar · editar código]
+
+Al permitir la expresión matemática del altruismo, la Economía Altruista generaliza el modelo neoclásico estándar, fundado en el egoísta homo economicus. Como el modelo neoclásico, la Economía Altruista supone que el ser humano es maximizador, pero rompe con la presunción de que su bienestar es independiente del de los otros. También abandona la presunción de que todos somos idénticos. Las relaciones humanas independientes son modeladas, de modo que todos pueden especificar cómo se sienten respecto de cualquier otro. La compasión por una persona se define como una disposición para renunciar a un beneficio para que esa persona se beneficie con él. El modelo altruista permite que las personas declaren explícitamente su compasión por sus amigos de modo tal que otros usuarios puedan percatarse de sus sentimientos. Otra característica clave de la economía altruista es que las transacciones pueden ser evaluadas independientemente por las partes implicadas. Al relajar la restricción de que la interacción humana debe basarse en un modelo de suma cero, saltea en forma efectiva el proceso envidioso e ineficiente de la negociación del precio.
+La economía altruista está en pleno desarrollo, pero no se ha producido todavía ningún sistema funcional debido a la complejidad de implementar una infraestructura de computación de amigo a amigo de servidores personales que lleven a cabo los cálculos. Por lo tanto, faltaría ver si el efecto agregado de todos maximizando para sí mismos y para sus amigos produce realmente un aumento de la sensación de bienestar similar a las metas del concepto de Felicidad Nacional Bruta de los butaneses. Si lo hace, la economía altruista puede formar una buena base para una economía de regalos a través de Internet.
+Véase también[editar · editar código]
+
+Estado de bienestar
+Enlaces externos[editar · editar código]
+
+Página sobre Economía Altruista (en inglés)

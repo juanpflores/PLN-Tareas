@@ -1,0 +1,21 @@
+Condensador síncrono
+Si bien se le llama Condensador sincrónico, se trata realmente de una máquina sincrónica polifásica que actúa como si fuese un condensador.
+Índice  [ocultar] 
+1 La máquina sincrónica
+2 Principio de desacople
+3 Condensador sincrónico
+4 Referencias
+La máquina sincrónica[editar · editar código]
+La máquina sincrónica es utilizada en la industria eléctrica preferiblemente como generador (solo se utiliza como motor a partir de potencias bastante elevadas). La misma, ofrece la posibilidad de controlar tanto la tensión de salida en sus bornes, así como la potencia activa entregada a la red.
+La potencia de salida de un generador sincrónico debe ser igual a la potencia mecánica de entrada, excluyendo todas las pérdidas. Debido a que las máquinas sincrónicas giran a una velocidad fija, la potencia de salida termina siendo una función directa del par aplicado al rotor de la misma. Controlando el caudal de entrada a la turbina, se controla entonces la potencia entregada a la red. Esto permite idealmente el control de la potencia activa en un rango que va desde cero hasta el máximo permisible por la máquina.
+No obstante, las máquinas sincrónicas presentan problemas de vibraciones que comprometen la vida útil de la misma, cuando la potencia de salida se encuentra debajo de cierto valor. Esto hace que toda máquina sincrónica tenga un mínimo de potencia a generar por debajo del cual no se debe operar y se estarán violando los límites operacionales, poniendo en juego la integridad de la máquina misma. Debido a ello el control de potencia activa se encuentra realmente en un rango que oscila entre los valores de máxima y mínima potencia que soporta la máquina en cuestión.
+Principio de desacople[editar · editar código]
+Los flujos de potencia activa y reactiva por una línea de transmisión en un sistema eléctrico de potencia, dependen de cuatro variables principalmente: los voltajes de operación de las dos barras conectadas por la línea, la diferencia angular entre estas tensiones y los parámetros de la línea. Para sistemas de transmisión, estas variables cumplen ciertas características.
+En primer lugar, las tensiones en cada barra se encuentran muy cerca de 1 p.u., así mismo las diferencias angulares entre las tensiones de barras adyacentes tienden a cero. Además, se cumple que las resistencias de las líneas de transmisión son despreciables con respecto a su reactancia (la relación entre las mismas esta alrededor de 1:10)
+Como consecuencia de lo anterior, se cumple que para sistemas de potencia, el flujo de potencia activa a través de una línea está determinado casi exclusivamente por la diferencia angular entre las tensiones de las barras adyacentes, mientras que el de potencia reactiva está determinado por la diferencia entre la magnitud de los voltajes en las barras adyacentes.
+Por ello, si en una máquina sincrónica la salida de potencia activa es controlada por el caudal de la turbina, la salida de potencia reactiva está ligada con el nivel de tensión en los bornes de la misma, el cual es controlado por la tensión polar del circuito del rotor.
+Condensador sincrónico[editar · editar código]
+Tomando en cuenta las consideraciones anteriores, se ha desarrollado un tipo especial de máquina sincrónica que puede operar de forma segura y sin comprometer su vida útil, siendo la salida de potencia activa de la misma, cero. Esto hace que se cuente con un generador en donde la única variable de control es la tensión en bornes y con ello la potencia reactiva.
+Debido a que esta clase de dispositivo se utiliza con el propósito de controlar la tensión en una barra o inyectar reactivos al sistema, al igual que un condensador, y debido a que constructivamente es, de hecho, una máquina sincrónica, se le llama condensador sincrónico.
+Referencias[editar · editar código]
+Daron, Egon (N/A). «Régimen estacionario de la máquina sincrónica.». Conversión de Energía. Universidad Simón Bolívar. N/A.

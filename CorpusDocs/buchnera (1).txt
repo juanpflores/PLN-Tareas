@@ -1,0 +1,12 @@
+Buchnera aphidicola
+Commons-emblem-notice.svg Buchnera aphidicola
+Clasificación científica
+Dominio:	Bacteria
+Filo:	Proteobacteria
+Clase:	Gammaproteobacteria
+Orden:	Enterobacteriales
+Familia:	Enterobacteriaceae
+Género:	Buchnera
+Especie:	B. aphidicola
+Buchnera aphidicola es una proteobacteria de la famlia Enterobacteriaceae. Es un endosimbionte primario de los áfidos. Se cree que Buchnera fue una vez un organismo Gram-negativo de vida libre similar a los modernos Enterobacteriaceae tales como Escherichia coli. Buchnera tiene un diámetro de 3 µm y presenta algunas de las características de sus parientes Enterobacteriaceae tales como una pared Gram-negativa. Sin embargo, al contrario que la mayoría de las bacterias gram-negativas, Buchnera carece de los genes que codifican los lipopolisacáridos (LPS) de su membrana exterior. Su larga asociación con los áfidos y la limitación del cruzado cromosómico debido a una transmisión estrictamente vertical han ocasionado la pérdida de los genes requeridos para la respiración anaeróbica, la síntesis de amino-azúcares, ácidos grasos, fosfolípidos y carbohidratos complejos. Esto ha resultado no sólo en uno de los genomas más pequeños de todos los organismos vivos conocidos, sino también en uno de los más estables genéticamente.
+La asociación simbiótica con los áfidos comienza entre hace 150 y 200 millones de años y ha persitido a través de transmisión maternal y co-especializción. Los áfidos han desarrollado células bacteriocitas que hospedan a Buchnera. Se estima que un áfido maduro puede hospedar a 5,6 × 106 bacterias. Buchnera ha perdido los factores reguladores lo que le permiten una continua sobrerproducción de triptófano y otros aminoácidos. Cada bacteriocito contene múltiples vesículas, denominadas simbiosomas que derivan de la membrana citoplasmática.

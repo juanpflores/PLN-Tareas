@@ -1,0 +1,198 @@
+Condensador eléctrico
+Para otros usos de este término, véase Condensador.
+Condensador
+Condensators.JPG
+Varios tipos de condensadores
+Tipo	Pasivo
+Principio de funcionamiento	Capacidad eléctrica
+Fecha de invención	Ewald Georg von Kleist (1745)
+Primera producción	Aproximadamente por 1900
+Símbolo electrónico
+Condensator tekening.png
+Configuración	En condensadores electrolíticos: negativo y positivo; en cerámicos: no presentan polaridad
+Un condensador (en inglés, capacitor,1 2 nombre por el cual se le conoce frecuentemente en el ámbito de la electrónica y otras ramas de la física aplicada), es un dispositivo pasivo, utilizado en electricidad y electrónica, capaz de almacenar energía sustentando un campo eléctrico. Está formado por un par de superficies conductoras, generalmente en forma de láminas o placas, en situación de influencia total (esto es, que todas las líneas de campo eléctrico que parten de una van a parar a la otra) separadas por un material dieléctrico o por el vacío. Las placas, sometidas a una diferencia de potencial, adquieren una determinada carga eléctrica, positiva en una de ellas y negativa en la otra, siendo nula la variación de carga total.
+Aunque desde el punto de vista físico un condensador no almacena carga ni corriente eléctrica, sino simplemente energía mecánica latente; al ser introducido en un circuito se comporta en la práctica como un elemento "capaz" de almacenar la energía eléctrica que recibe durante el periodo de carga, la misma energía que cede después durante el periodo de descarga.
+Índice  [ocultar] 
+1 Nota terminológica
+2 Funcionamiento
+2.1 Energía almacenada
+2.2 Carga y descarga
+2.3 En corriente alterna
+2.4 Asociaciones de condensadores
+2.5 Condensadores variables
+3 Comportamientos ideal y real
+3.1 Comportamiento en corriente continua
+3.2 Comportamiento en corriente alterna
+4 Tipos de dieléctrico utilizados en condensadores
+5 Usos
+6 Véase también
+7 Referencias
+8 Enlaces externos
+Nota terminológica[editar · editar código]
+
+Dentro de las ramas del estudio de la electricidad y la electrónica, se ha hecho una adopción de facto del anglicismo capacitor para designar al condensador, a pesar de que en nuestra lengua existe ya el término Condensador (del latín "condensare"), que tiene el mismo significado del término en inglés para este mismo elemento, haciendo innecesaria la adopción de un nuevo término para referirse al mismo dispositivo.3
+Funcionamiento[editar · editar código]
+
+La carga almacenada en una de las placas es proporcional a la diferencia de potencial entre esta placa y la otra, siendo la constante de proporcionalidad la llamada capacidad o capacitancia. En el Sistema internacional de unidades se mide en Faradios (F), siendo 1 faradio la capacidad de un condensador en el que, sometidas sus armaduras a una d.d.p. de 1 voltio, estas adquieren una carga eléctrica de 1 culombio.
+La capacidad de 1 faradio es mucho más grande que la de la mayoría de los condensadores, por lo que en la práctica se suele indicar la capacidad en micro- µF = 10-6, nano- nF = 10-9 o pico- pF = 10-12 -faradios. Los condensadores obtenidos a partir de supercondensadores (EDLC) son la excepción. Están hechos de carbón activado para conseguir una gran área relativa y tienen una separación molecular entre las "placas". Así se consiguen capacidades del orden de cientos o miles de faradios. Uno de estos condensadores se incorpora en el reloj Kinetic de Seiko, con una capacidad de 1/3 de Faradio, haciendo innecesaria la pila. También se está utilizando en los prototipos de automóviles eléctricos.
+El valor de la capacidad de un condensador viene definido por la siguiente fórmula:
+C={\frac  {Q_{1}}{V_{1}-V_{2}}}={\frac  {Q_{2}}{V_{2}-V_{1}}}
+en donde:
+C: Capacitancia
+Q_{1}: Carga eléctrica almacenada en la placa 1.
+V_{1}-V_{2}: Diferencia de potencial entre la placa 1 y la 2.
+Nótese que en la definición de capacidad es indiferente que se considere la carga de la placa positiva o la de la negativa, ya que
+Q_{2}=C(V_{2}-V_{1})=-C(V_{1}-V_{2})=-Q_{1}\,
+aunque por convenio se suele considerar la carga de la placa positiva.
+En cuanto al aspecto constructivo, tanto la forma de las placas o armaduras como la naturaleza del material dieléctrico son sumamente variables. Existen condensadores formados por placas, usualmente de aluminio, separadas por aire, materiales cerámicos, mica, poliéster, papel o por una capa de óxido de aluminio obtenido por medio de la electrólisis.
+Energía almacenada[editar · editar código]
+El condensador almacena carga eléctrica, debido a la presencia de un campo eléctrico en su interior, cuando aumenta la diferencia de potencial en sus terminales, devolviéndola cuando ésta disminuye. Matemáticamente se puede obtener que la energía {\mathcal  {E}}, almacenada por un condensador con capacidad C, que es conectado a una diferencia de potencial V_{1}-V_{2}, viene dada por:
+Fórmula para cualesquiera valores de tensión inicial y tensión final: {\mathcal  {E}}=\int _{{q_{1}}}^{{q_{2}}}V{\mathrm  {d}}q=\int _{{q_{1}}}^{{q_{2}}}{\frac  {Q}{C}}{\mathrm  {d}}q={\frac  {Q^{2}}{2C}}={\frac  {1}{2C}}((CV_{2})^{2}-(CV_{1})^{2})={\frac  {1}{2}}C(V_{2}^{2}-V_{1}^{2}) Donde q_{1} es la carga inicial. q_{2} es la carga final. V_{1} es la tensión inicial. V_{2} es la tensión final.
+Este hecho es aprovechado para la fabricación de memorias, en las que se aprovecha la capacidad que aparece entre la puerta y el canal de los transistores MOS para ahorrar componentes.
+Carga y descarga[editar · editar código]
+Véase también: Circuito RC
+Al conectar un condensador en un circuito, la corriente empieza a circular por el mismo. A la vez, el condensador va acumulando carga entre sus placas. Cuando el condensador se encuentra totalmente cargado, deja de circular corriente por el circuito. Si se quita la fuente y se coloca el condensador y la resistencia en paralelo, la carga empieza a fluir de una de las placas del condensador a la otra a través de la resistencia, hasta que la carga es nula en las dos placas. En este caso, la corriente circulará en sentido contrario al que circulaba mientras el condensador se estaba cargando.
+Carga
+V(t)=V_{f}(1-e^{{-{\frac  {t}{RC}}}})
+I(t)={\frac  {V_{f}}{R}}(e^{{-{\frac  {t}{RC}}}})
+Descarga
+V(t)=V_{i}\,e^{{-{\frac  {t}{RC}}}}
+I(t)=-{\frac  {V_{i}}{R}}e^{{-{\frac  {t}{RC}}}}
+Donde:
+V(t) es la tensión en el condensador.
+Vi es la tensión o diferencia de potencial eléctrico inicial (t=0) entre las placas del condensador.
+Vf es la tensión o diferencia de potencial eléctrico final (a régimen estacionario t>=4RC) entre las placas del condensador.
+I(t) la intensidad de corriente que circula por el circuito.
+RC es la capacitancia del condensador en faradios multiplicada por la resistencia del circuito en Ohmios, llamada constante de tiempo.
+En corriente alterna[editar · editar código]
+En CA, un condensador ideal ofrece una resistencia al paso de la corriente que recibe el nombre de reactancia capacitiva, XC, cuyo valor viene dado por la inversa del producto de la pulsación (\quad \omega =2\pi f) por la capacidad, C:
+X_{C}={1 \over j\omega C}={-j \over \omega C}\;
+Si la pulsación se expresa en radianes por segundo (rad/s) y la capacidad en faradios (F), la reactancia resultará en ohmios.
+De acuerdo con la ley de Ohm, la corriente alterna que circule por el condensador se adelantada 90º (\pi /2) respecto a la tensión aplicada.
+Asociaciones de condensadores[editar · editar código]
+
+
+Asociación serie general.
+
+
+Asociación paralelo general.
+Los condensadores pueden asociarse en serie, paralelo o de forma mixta. En estos casos, la capacidad equivalente resulta ser para la asociación en serie:
+{1 \over C_{{AB}}}={1 \over C_{1}}+{1 \over C_{2}}+...+{1 \over C_{n}}={\sum _{{k=1}}^{n}{1 \over C_{k}}}
+y para la asociación en paralelo:
+C_{{AB}}=C_{1}+C_{2}+...+C_{n}=\sum _{{k=1}}^{n}C_{k}
+Es decir, el sumatorio de todas las capacidades de los condensadores conectados en paralelo.
+Es fácil demostrar estas dos expresiones, para la primera solo hay que tener en cuenta que la carga almacenada en las placas es la misma en ambos condensadores (se tiene que inducir la misma cantidad de carga entre las placas y por tanto cambia la diferencia de potencial para mantener la capacitancia de cada uno), y por otro lado en la asociación en "paralelo", se tiene que la diferencia de potencial entre ambas placas tiene que ser la misma (debido al modo en el que están conectados), así que cambiará la cantidad de carga. Como esta se encuentra en el numerador (C=Q/V) la suma de capacidades será simplemente la suma algebraica.
+Para la asociación mixta se procederá de forma análoga con las resistencias.
+Condensadores variables[editar · editar código]
+Un condensador variable es aquel en el cual se pueda cambiar el valor de su capacidad. En el caso de un condensador plano, la capacidad puede expresarse por la siguiente ecuación:
+C=\epsilon _{0}\epsilon _{r}{\frac  {A}{d}}
+donde:
+\epsilon _{0} es la permitividad del vacío ≈ 8,854187817... × 10−12 F·m−1
+\epsilon _{r} es la constante dieléctrica o permitividad relativa del material dieléctrico entre las placas;
+A es el área efectiva de las placas;
+y d es la distancia entre las placas o espesor del dieléctrico.
+Para tener condensador variable hay que hacer que por lo menos una de las tres últimas expresiones cambien de valor. De este modo, se puede tener un condensador en el que una de las placas sea móvil, por lo tanto varía d y la capacidad dependerá de ese desplazamiento, lo cual podría ser utilizado, por ejemplo, como sensor de desplazamiento.
+Otro tipo de condensador variable se presenta en los diodos Varicap.
+Comportamientos ideal y real[editar · editar código]
+
+
+
+Fig. 1: Condensador ideal.
+El condensador ideal (figura 1) puede definirse a partir de la siguiente ecuación diferencial:
+i(t)=C{du(t) \over dt}\;
+donde C es la capacidad, u(t) es la función diferencia de potencial aplicada a sus terminales e i(t) la corriente resultante que circula.
+Comportamiento en corriente continua[editar · editar código]
+Un condensador real en CC (DC en inglés) se comporta prácticamente como uno ideal, es decir, como un circuito abierto. Esto es así en régimen permanente ya que en régimen transitorio, esto es, al conectar o desconectar un circuito con condensador, suceden fenómenos eléctricos transitorios que inciden sobre la d.d.p. en sus bornes (ver circuitos serie RL y RC).
+Comportamiento en corriente alterna[editar · editar código]
+
+
+Fig. 2: Diagrama cartesiano de las tensiones y corriente en un condensador.
+Al conectar una CA senoidal v(t) a un condensador circulará una corriente i(t), también senoidal, que lo cargará, originando en sus bornes una caída de tensión, -vc(t), cuyo valor absoluto puede demostrarse que es igual al de v(t). Al decir que por el condensador «circula» una corriente, se debe puntualizar que, en realidad, dicha corriente nunca atraviesa su dieléctrico. Lo que sucede es que el condensador se carga y descarga al ritmo de la frecuencia de v(t), por lo que la corriente circula externamente entre sus armaduras.
+
+
+Fig. 3: Diagrama fasorial.
+El fenómeno físico del comportamiento del condensador en CA se puede observar en la figura 2. Entre los 0º y los 90º i(t) va disminuyendo desde su valor máximo positivo a medida que aumenta su tensión de carga vc(t), llegando a ser nula cuando alcanza el valor máximo negativo a los 90º, puesto que la suma de tensiones es cero (vc(t)+ v(t) = 0) en ese momento. Entre los 90º y los 180º v(t) disminuye, y el condensador comienza a descargarse, disminuyendo por lo tanto vc(t). En los 180º el condensador está completamente descargado, alcanzando i(t) su valor máximo negativo. De los 180º a los 360º el razonamiento es similar al anterior.
+De todo lo anterior se deduce que la corriente queda adelantada 90º respecto de la tensión aplicada. Considerando, por lo tanto, un condensador C, como el de la figura 1, al que se aplica una tensión alterna de valor:
+u(t)=V_{0}\cdot \sin(\omega t+\beta )
+De acuerdo con la ley de Ohm circulará una corriente alterna, adelantada 90º (\pi /2) respecto a la tensión aplicada (figura 4), de valor:
+i(t)=I_{0}\cdot \sin(\omega t+\beta +90^{\circ })
+donde I_{0}={V_{0} \over X_{C}}. Si se representa el valor eficaz de la corriente obtenida en forma polar:
+{\vec  {I}}=I_{{/\!\!\!\underline {\ \beta +90^{\circ }}}}
+
+
+Figura 4. Circuitos equivalentes de un condensador en CA.
+Y operando matemáticamente:
+{\vec  {I}}=\left({V \over X_{C}}\right)_{{/\!\!\!\underline {\ \beta +90^{\circ }}}}={V_{{/\!\!\!\underline {\ \beta }}} \over {X_{C}}_{{/\!\!\!\underline {\ -90^{\circ }}}}}
+Por lo tanto, en los circuitos de CA, un condensador ideal se puede asimilar a una magnitud compleja sin parte real y parte imaginaria negativa:
+{\vec  {X_{C}}}=0-jX_{C}={X_{C}}_{{/\!\!\!\underline {\ -90^{\circ }}}}
+En el condensador real, habrá que tener en cuenta la resistencia de pérdidas de su dieléctrico, RC, pudiendo ser su circuito equivalente, o modelo, el que aparece en la figura 4a) o 4b) dependiendo del tipo de condensador y de la frecuencia a la que se trabaje, aunque para análisis más precisos pueden utilizarse modelos más complejos que los anteriores.
+Tipos de dieléctrico utilizados en condensadores[editar · editar código]
+
+
+
+Condensadores electrolíticos axiales.
+
+
+Condensadores electrolíticos de tantalio.
+
+
+Condensadores de poliéster.
+
+
+Condensadores cerámicos, "SMD (montaje superficial)" y de "disco".
+
+
+Condensador variable de una vieja radio AM.
+
+
+Condensadores modernos.
+Condensadores de aire. Se trata de condensadores, normalmente de placas paralelas, con dieléctrico de aire y encapsulados en vidrio. Como la permitividad eléctrica relativa es la unidad, sólo permite valores de capacidad muy pequeños. Se utilizó en radio y radar, pues carecen de pérdidas y polarización en el dieléctrico, funcionando bien a frecuencias elevadas.
+Condensadores de mica. La mica posee varias propiedades que la hacen adecuada para dieléctrico de condensadores: bajas pérdidas, exfoliación en láminas finas, soporta altas temperaturas y no se degrada por oxidación o con la humedad. Sobre una cara de la lámina de mica se deposita aluminio, que forma una armadura. Se apilan varias de estas láminas, soldando los extremos alternativamente a cada uno de los terminales. Estos condensadores funcionan bien en altas frecuencias y soportan tensiones elevadas, pero son caros y se ven gradualmente sustituidos por otros tipos.
+Condensadores de papel. El dieléctrico es papel parafinado, bakelizado o sometido a algún otro tratamiento que reduce su higroscopia y aumenta el aislamiento. Se apilan dos cintas de papel, una de aluminio, otras dos de papel y otra de aluminio y se enrollan en espiral. Las cintas de aluminio constituyen las dos armaduras, que se conectan a sendos terminales. Se utilizan dos cintas de papel para evitar los poros que pueden presentar.
+Condensadores autorregenerables. Los condensadores de papel tienen aplicaciones en ambientes industriales. Los condensadores autorregenerables son condensadores de papel, pero la armadura se realiza depositando aluminio sobre el papel. Ante una situación de sobrecarga que supere la rigidez dieléctrica del dieléctrico, el papel se rompe en algún punto, produciéndose un cortocircuito entre las armaduras, pero este corto provoca una alta densidad de corriente por las armaduras en la zona de la rotura. Esta corriente funde la fina capa de aluminio que rodea al cortocircuito, restableciendo el aislamiento entre las armaduras.
+Condensadores electrolíticos. Es un tipo de condensador que utiliza un electrolito, como su primera armadura, la cual actúa como cátodo. Con la tensión adecuada, el electrolito deposita una capa aislante (la cual es en general una capa muy fina de óxido de aluminio) sobre la segunda armadura o cuba (ánodo), consiguiendo así capacidades muy elevadas. Son inadecuados para funcionar con corriente alterna. La polarización inversa destruye el óxido, produciendo un corto entre el electrolito y la cuba, aumentando la temperatura, y por tanto, arde o estalla el condensador consecuentemente. Existen varios tipos, según su segunda armadura y electrolito empleados:
+Condensadores de aluminio. Es el tipo normal. La cuba es de aluminio y el electrolito una disolución de ácido bórico. Funciona bien a bajas frecuencias, pero presenta pérdidas grandes a frecuencias medias y altas. Se emplea en fuentes de alimentación y equipos de audio. Muy utilizado en fuentes de alimentación conmutadas.
+Condensadores de tantalio (tántalos). Es otro condensador electrolítico, pero emplea tantalio en lugar de aluminio. Consigue corrientes de pérdidas bajas, mucho menores que en los condensadores de aluminio. Suelen tener mejor relación capacidad/volumen.
+Condensadores bipolares (para corriente alterna). Están formados por dos condensadores electrolíticos en serie inversa, utilizados en caso de que la corriente pueda invertirse. Son inservibles para altas frecuencias.
+Condensadores de poliéster o Mylar. Está formado por láminas delgadas de poliéster sobre las que se deposita aluminio, que forma las armaduras. Se apilan estas láminas y se conectan por los extremos. Del mismo modo, también se encuentran condensadores de policarbonato y polipropileno.
+Condensadores de poliestireno también conocidos comúnmente como Styroflex (marca registrada de Siemens). Otro tipo de condensadores de plástico, muy utilizado en radio, por disponer de coeficiente de temperatura inverso a las bobinas de sintonía, logrando de este modo estabilidad en los circuitos resonantes.
+Condensadores cerámicos. Utiliza cerámicas de varios tipos para formar el dieléctrico. Existen diferentes tipos formados por una sola lámina de dieléctrico, pero también los hay formados por láminas apiladas. Dependiendo del tipo, funcionan a distintas frecuencias, llegando hasta las microondas.
+Condensadores síncronos. Es un motor síncrono que se comporta como un condensador.
+Dieléctrico variable. Este tipo de condensador tiene una armadura móvil que gira en torno a un eje, permitiendo que se introduzca más o menos dentro de la otra. El perfil de la armadura suele ser tal que la variación de capacidad es proporcional al logaritmo del ángulo que gira el eje.
+Condensadores de ajuste. Son tipos especiales de condensadores variables. Las armaduras son semicirculares, pudiendo girar una de ellas en torno al centro, variando así la capacidad. Otro tipo se basa en acercar las armaduras, mediante un tornillo que las aprieta.
+Usos[editar · editar código]
+
+Los condensadores suelen usarse para:
+Baterías, por su cualidad de almacenar energía.
+Memorias, por la misma cualidad.
+Filtros.
+Fuentes de alimentación.
+Adaptación de impedancias, haciéndolas resonar a una frecuencia dada con otros componentes.
+Demodular AM, junto con un diodo.
+Osciladores de todos los tipos.
+El flash de las cámaras fotográficas.
+Tubos fluorescentes.
+Compensación del factor de potencia.
+Arranque de motores monofásicos de fase partida.
+Mantener corriente en el circuito y evitar caídas de tensión.
+Véase también[editar · editar código]
+
+Botella de Leyden
+Resistencia eléctrica
+Inductor
+Diodo
+Dieléctrico
+Micrófono de condensador
+Supercondensador
+Referencias[editar · editar código]
+
+Ir a ↑ Federico Beigbeder Atienza (1997). Diccionario politécnico de las lenguas española e inglesa (2º edición). España: Ediciones Díaz de Santos. p. 307. ISBN 9788479782993. Consultado el 7 de marzo de 2012.
+Ir a ↑ Routledge (1997). Spanish Technical Dictionary/Diccionario Técnico Inglés. Gran Bretaña: Routledge. p. 104. ISBN 9780415112734. Consultado el 10 de marzo de 2012.
+Ir a ↑ «Palabra condensador en diccionario de la RAE.». Consultado el 22-01-2012.
+Enlaces externos[editar · editar código]
+
+Colabora en Commons. Wikimedia Commons alberga contenido multimedia sobre capacitores.
+Understanding Capacitors
+Apuntes sobre capacidad y circuitos equivalentes
+Condensadores y potenciómetros en guitarras y bajos eléctricos
+Símbolos de Condensadores eléctricos / Capacitores

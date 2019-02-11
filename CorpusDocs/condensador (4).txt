@@ -1,0 +1,94 @@
+Condensador electrolítico
+
+
+Condensadores electrolíticos de diferentes tamaños.
+
+
+Condensador electrolítico Axial (arriba) y radial (abajo).
+Un condensador electrolítico es un tipo de condensador que usa un líquido iónico conductor como una de sus placas. Típicamente con más capacidad por unidad de volumen que otros tipos de condensadores, son valiosos en circuitos eléctricos con relativa alta corriente y baja frecuencia. Este es especialmente el caso en los filtros de alimentadores de corriente, donde se usan para almacenar la carga, y moderar el voltaje de salida y las fluctuaciones de corriente en la salida rectificada. También son muy usados en los circuitos que deben conducir corriente continua pero no corriente alterna.
+Los condensadores electrolíticos pueden tener mucha capacitancia, permitiendo la construcción de filtros de muy baja frecuencia.
+Índice  [ocultar] 
+1 Historia
+2 Construcción
+3 Polaridad
+4 Electrolito
+5 Comportamiento eléctrico de los electrolíticos
+6 Capacidad
+7 Variantes
+8 Véase también
+9 Referencias
+10 Enlaces externos
+Historia[editar · editar código]
+
+No existe un inventor claro del condensador electrolítico. Es uno de los muchos casos de tecnología que se pueden considerar una curiosidad de laboratorio, la clásica "búsqueda de solución para un problema".
+El principio del condensador electrolítico fue descubierto en 1886 por Charles Pollak, como parte de su investigación en la anodización del aluminio y otros metales. Pollack descubrió que debido a la delgadez de la capa de óxido de aluminio producida, había mucha capacitancia entre el aluminio y la solución de electrolito. Un problema importante era que la mayoría de los electrolitos tendían a disolver esta capa de óxido de nuevo cuando la tensión se eliminaba, pero finalmente él encontró que el perborato de sodio bórax permitía la creación de la capa sin atacarla después. Le fue concedida una patente para el condensador electrolítico de aluminio con disolución de bórax en 1897.
+La primera aplicación práctica de esta tecnología fue en los condensadores de arranques de motores de corriente alterna. La mayoría de los condensadores electrolíticos son polarizados, esto es, sólo pueden operar con corriente continua, pero usando varias placas de aluminio anodizado e intercalando entre ellas el electrolito de bórax, es posible hacer un condensador que puede ser usado en sistemas de corriente alterna.
+Los condensadores del siglo XIX y principios del XX tienen pocas similitudes con los actuales, y eran construidos de forma más parecida a una batería de coche. El electrolito de disolución de bórax tenía que ser periódicamente redisuelto con agua destilada, algo que recuerda a las baterías de plomo ácido.
+La primera aplicación masiva de las versiones de corriente continua de este tipo de condensador fue en las centralitas telefónicas para suavizar los cambios de estado de los relés de las líneas de 48 voltios.
+El desarrollo de los receptores de radio domésticos de corriente alterna, a finales de los 1920 requirieron de la producción de condensadores de alta capacidad (para la época) y alto voltaje, como mínimo de 4 microfaradios y hasta 500 voltios. Los de papel enrollado y plata con aceite estaban disponibles entonces pero los dispositivos con ese orden de capacidad y voltaje eran pesados y prohibitivamente caros. El primer prototipo de un condensador electrolítico moderno fue patentado por Julius Lilienfield en 1926. Su diseño seguía las líneas del condensador de mica y plata, pero con papel empapado en electrolito en lugar de la mica. Se probó que era difícil refrigerar el dispositivo y en las condiciones calientes típicas de los los receptores de radio se agujereaban y fallaban.
+El ingeniero retirado del ejército de Estados Unidos Ralph D. Mershon desarrolló el primer condensador electrolítico para radio comercialmente disponible en cualquier cantidad, aunque algunos otros investigadores produjeron dispositivos similares. El "condensador Mershon" como se le conoció, estaba construido como un condensador de papel convencional, con dos largas tiras de película de aluminio enrolladas con tiras de papel empapado en solución electrolítica, en lugar de cera. En lugar de intentar cerrarlo herméticamente, la solución de Mershon fue simplemente meter el condensador en una lata de aluminio o cobre, llena hasta la mitad de electrolito extra. (Estos son llamados "electrolíticos húmedos" por los radioaficionados, y los que se encuentran aún con algo de líquido dentro son piezas de coleccionista).
+A pesar del éxito inmediato de Mershon (y el nombre "Condensador de Mershon" fue durante un corto tiempo sinónimo de receptores de radio de calidad en los años 20), debido a varias dificultades de fabricación su tiempo de vida en funcionamiento era corto y la compañía de Mershon quebró a comienzos de la décad de 1930.
+No fue hasta la segunda guerra mundial cuando se dedicaron suficientes recursos para encontrar las causas de los problemas, que los condensadores electrolíticos se convirtieron en los componentes útiles que son hoy en día.
+Construcción[editar · editar código]
+
+Los condensadores electrolíticos de aluminio se construyen a partir de dos tiras de aluminio, una de las cuales está cubierta de una capa aislante de óxido, y un papel empapado en electrolito entre ellas. La tira aislada por el óxido es el ánodo, mientras el líquido electrolito y la segunda tira actúan como cátodo. Esta pila se enrolla sobre sí misma, ajustada con dos conectores pin y se encaja en un cilindro de aluminio. Las dos geometrías más populares son las axiales y radiales mostradas en la fotografía.
+Polaridad[editar · editar código]
+
+En los condensadores electrolíticos de aluminio, la capa de óxido aislante en la superficie de la placa de aluminio actúa como dieléctrico, y es la delgadez de esta capa la que permite obtener una gran capacidad en un pequeño volumen. La capa de óxido puede mantenerse inafectada incluso con una intensidad de campo eléctrico del orden de 109 voltios por metro. La combinación de alta capacidad y alto voltaje resultan en una gran densidad energética.
+Al contrario que la mayoría de los condensadores, los electrolíticos tienen polaridad. La polaridad correcta se indica en el envoltorio con una franja indicando el signo negativo y unas flechas indicando el terminal que debe conectares al potencial menor (terminal negativo). También, el terminal negativo es más corto que el positivo. Esto es importante porque una conexión con voltaje invertido de más de 1,5 Voltios puede destruir la capa central de material dieléctrico por una reacción de reducción electroquímica. Sin este material dieléctrico, el condensador entra en cortocircuito, y si la corriente es excesiva, el electrolito puede hervir y hacer explotar el condensador.
+Existen disponibles condensadores especiales para uso con corriente alterna, normalmente conocidos como "condensadores no-polares" o "NP". En ellos, las capas de óxido se forman en las dos tiras de aluminio antes del ensamblado. En los ciclos alternos, una u otra de las placas actúan como un diodo, evitando que la corriente inversa dañe el electrolito de la otra. Esencialmente, un condensador de 10 microfaradios de alterna se comporta como dos de 20 microfaradios de continua conectados en serie inversa.
+Los condensadores modernos tienen una válvula de seguridad, típicamente en una esquina del envoltorio o una terminación especialmente diseñada para ventilar el líquido/gas caliente, pero aun así las rupturas pueden ser dramáticas. Los condensadores electrolíticos pueden soportar una tensión inversa por un tiempo corto, pero durante este tiempo conducirán mucha corriente y no se comportarán como verdaderos condensadores. La mayoría sobrevivirán sin tensión inversa, o con tensión alterna, pero los circuitos deben diseñarse siempre pensando en que no haya tensión inversa durante tiempos significativos. La corriente directa constante (con la polaridad correcta) es lo preferible para aumentar la vida del condensador.
+Polarized capacitor symbol.svg		
+Polarized capacitor symbol 2.svg		
+Polarized capacitor symbol 3.svg		
+Capacitor symbol.png		Polarized capacitor symbol 4.svg		Variable capacitor symbol.svg
+Condensador		Condensador
+Polarizado		Condensador
+Variable
+Símbolos esquemáticos para condensadores electrolíticos. Algunos esquemas no incluyen el signo "+" al lado del símbolo. Los condensadores electrolíticos se marcan para indicar la polaridad de los terminales.
+
+
+Nota: La marca en el envoltorio de metal indica el terminal negativo (excepto en los capacitores de tantalio, en los que la raya señala el positivo).
+Electrolito[editar · editar código]
+
+El electrolito es usualmente ácido bórico o borato de sodio en disolución acuosa junto con algunos azúcares o glicol de etileno que se añaden para retardar la evaporación. Conseguir un buen balance entre la estabilidad química y la baja resistencia eléctrica interna es complicado, y de hecho la composición exacta de los buenos electrolitos es un secreto comercial guardado celosamente. Llevó muchos años de dolorosas investigaciones antes de que fueran desarrollados condensadores útiles.
+Los electrolitos pueden ser tóxicos o corrosivos. Trabajar con electrolitos requiere medidas de seguridad y equipo de protección apropiado como guantes, máscaras y gafas de seguridad. Algunos viejos electrolitos de tantalio, a menudo llamados de "pulmon húmedo" contienen ácido sulfúrico corrosivo, pero la mayoría de ellos ya no se usan debido a la corrosión.
+Comportamiento eléctrico de los electrolíticos[editar · editar código]
+
+Un modelo de circuito común para un condensador electrolítico es el siguiente esquema:
+Electrolytic capacitor model.svg
+Donde Rleakage es la resistencia interna, RESR es la resistencia serie equivalente, LESL es la inductancia serie equivalente (siendo L el símbolo convencional para la inductancia).
+RESR debe ser tan pequeña como sea posible, pues determina la pérdida de potencia cuando el condensador se usa para suavizar los picos de voltaje. Las pérdidas son cuadráticas con el rizado de corriente que fluye a su través y lineales con RESR. Condensadores con baja ESR son imperativos para obtener buenas eficiencias en alimentadores de corriente.
+Debe señalarse que éste es solo un modelo, siempre que no incluye la absorción del dieléctrico ni otros efectos no-ideales asociados con los condensadores electrolíticos reales.
+Como los electrolitos se evaporan, la duración se suele dar en horas a una temperatura dada. Por ejemplo, 2000 horas a 105 °C (que es la máxima temperatura de trabajo) es un valor típico. La duración se dobla por cada 10 °C menos [1], alcanzando los 15 años de duración a 45 °C. Por supuesto existen un gran número de condensadores mucho más viejos que aún funcionan. La mayoría de los condensadores se evalúan para funcionar a 85 °C como máximo, aunque existen de -50 hasta 150 °C .
+Capacidad[editar · editar código]
+
+El valor de la capacidad de cualquier condensador (también conocido como capacitancia) es una medida de la cantidad de carga almacenada, por unidad de diferencia de potencial entre sus placas. La unidad básica de capacidad en el sistema internacional de unidades es el faradio que es un culombio por voltio. Sin embargo, esta unidad es muy grande para las capacidades típicas de los condensadores reales (hasta la invención de los supercondensadores), de forma que el microfaradio (10-6), nanofaradio (10-9) y picofaradio (10-12) se usan más comúnmente. Estas unidades se abrevian como μF o uF, nF y pF.
+Hay varios condicionantes para determinar el valor de la capacidad de un condensador, como la delgadez del dieléctrico y el área de las placas. En el proceso de fabricación, los condensadores electrolíticos se hacen para adaptarse a determinados números preferidos. Multiplicando esos números preferidos por un orden de magnitud, y combinando varios se puede conseguir cualquier valor, permitiendo la mayoría de combinaciones útiles para aplicaciones prácticas.
+Hay un conjunto de "números estandarizados básicos" para que el valor de cualquier condensador electrolítico moderno se pueda derivar multiplicando estos números básicos, que son 1.0, 1.2, 1.5, 1.8, 2.2, 3.3, 4.7, 5.6, 6.8 u 8.2 por potencias de 10. Así, es común encontrar condensadores de valores de 10, 12, 15, 18, 22, 33, 47, 56, 68, 82, 100, 220, etcétera. Usando este método, rangos de valores desde 0.1 hasta 4700 son comunes en la mayoría de las aplicaciones. Estos valores se dan generalmente en microfaradios (µF).
+Muchos condensadores electrolíticos tienen un rango de tolerancia del 20%. Esto significa que el fabricante indica que el valor real del condensador cae dentro del 20% de su valor marcado. Seleccionando las series preferidas se asegura que se pueda comercializar cualquier condensador como un valor estándar, dentro de la tolerancia. Algunos condensadores tienen tolerancias asimétricas, típicamente -20% para la negativa, pero con mucha más tolerancia positiva. La indicación de la tolerancia en el empaquetado evita tener que medir cada condensador individual.
+Variantes[editar · editar código]
+
+Al contrario que otros condensadores que usan dieléctricos hechos de un material aislante intrínseco, el dieléctrico en los condensadores electrolíticos dependen de la formación y estabilidad de una capa microscópica de óxido metálico. Comparados con los normales, esta capa verdaderamente fina de dieléctrico permite capacidades mucho mayores en el mismo volumen, pero mantener la integridad de esta finísima capa de óxido requiere la cuidadosa aplicación de la polaridad correcta en corriente continua, o si no la capa de óxido se deshace o rompe causando que el condensador falle. Adicionalmente, los condensadores electrolíticos usan internamente química de disoluciones y pueden fallar eventualmente si el agua de la disolución se evapora debido a temperaturas altas.
+La capacidad de los electrolíticos no está tan precisamente especificada como en el caso de los condensadores de dieléctrico sólido normales. Especialmente con los electrolíticos de aluminio, es bastante común ver especificaciones que "garantizan un valor mínimo" sin "límite máximo" de capacidad. Para la mayoría de los propósitos (como en alimentadores de corriente o acoplamiento de señales) este tipo de especificación es aceptable.
+Como ocurre con los condensadores de dieléctrico sólido normales, los condensadores electrolíticos vienen en diferentes varidedades:
+Aluminio: compacto pero poco preciso, los hay disponibles en el rango de <1 µF hasta 1 F, con voltajes de trabajo de hasta varios cientos de voltios.
+El dieléctrico es una fina capa de óxido de aluminio. Contiene líquido corrosivo y pueden hervir si se conectan al revés. La capa de óxido aislante tiende a deteriorarse en ausencia de voltaje "rejuvenecedor", y eventualmente el condensador fallará si no se le aplica voltaje. Los electrolíticos bipolares (también llamados No-polarizados o NP) contienen dos condensadores conectados en serie inversa y se usan cuando ocasionalmente la corriente continua pueda invertirse. Sus malas características de frecuencia y temperatura los hacen inservibles para aplicaciones de alta frecuencia. Sus valores típicos de ESL son de pocos nanohenrios. 1
+tantalio: compacto, dispositivo de bajo voltaje de hasta varios cientos de mF, tienen menor densidad energética pero son mucho más precisos que los de aluminio. Los condensadores de tantalio también son polarizados debido a sus electrodos diferentes. El cátodo está formado por granos de tantalio, con el dieléctrico formado electroquímicamente por una fina capa de óxido. La finura de la capa de óxido y la gran superficie del material poroso le otorgan una gran capacidad por unidad de volumen. El cátodo está formado bien por un líquido electrolito conectado al envoltorio metálico o bien por una capa semiconductora de dióxido de manganeso, que luego se conecta a un terminal externo. Una variante de este tipo reemplaza el dióxido de manganeso por un polímero plástico conductor que reduce la resistencia interna y elimina la auto-ignición en caso de fallo.2
+Comparados con los electrolíticos de aluminio, los condensadores de tantalio tienen una capacidad muy precisa y estable, poca caída de tensión y muy baja impedancia a altas frecuencias. Sin embargo, al contrario que los de aluminio, no toleran picos de tensión y se destruyen (a veces explotando violentamente) si se conectan al revés o se exponen a picos de tensión o altas temperaturas.
+Los condensadores de Tantalio son más caros que los de aluminio y generalmente solo se pueden usar en bajo voltaje, pero debido a su gran capacidad por unidad de volumen y baja impedancia eléctrica a altas frecuencias son muy populares en aplicaciones miniaturizadas como los teléfonos móviles.
+Véase también[editar · editar código]
+
+Supercondensador
+Referencias[editar · editar código]
+
+Ir a ↑ El efecto de los condensadores no ideales. Documento técnico de Murata.
+Ir a ↑ NIC components Corp. FAQ
+Glenn Zorpette (January 2005). «Super Charged: A Tiny South Korean Company is Out to Make capacitors Powerful enough to Propel the Next Generation of Hybrid-Electric Cars». IEEE Spectrum 42 No. 1.
+Electrochemistry Encyclopedia: Electrochemical capacitors; Their Nature, Function, and Applications
+Enlaces externos[editar · editar código]
+
+Electrolytic capacitors
+How Electrolytic capacitors Work
+How to Identify Japanese Electrolytic capacitors
+Conozca los condensadores electrolíticos

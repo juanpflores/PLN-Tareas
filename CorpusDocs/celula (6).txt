@@ -1,0 +1,26 @@
+Componentes de la célula humana
+1. microvellosidades 2. retículo endoplasmático rugoso 16. centríolos 15. microtúbulos 3. membrana celular o citoplasmática 4. vacuolas 14. ribosoma 13. lisosoma 5. microfilamentos 12. núcleo 6. retículo endoplasmático liso 7. aparato de Golgi 10. nucléolo 11. mitocondria 8. membrana nuclear 9. citoplasma
+1. microvellosidades finos repliegues de la membrana citoplasmática que aumentan la superficie de la célula y participan en el intercambio de sustancias con el medio externo
+2. retículo endoplasmático rugoso sistema de membranas y microcanales donde se alojan numerosos ribosomas
+3. membrana celular o citoplasmática envoltura semipermeable de la célula a través de la cual se producen los intercambios entre el interior y el medio externo
+4. vacuolas pequeñas bolsas que sirven para almacenar reservas o para expulsar secreciones
+5. microfilamentos delgadas hebras de naturaleza proteica relacionadas con las corrientes internas de la célula y responsables de las contracciones de las fibras musculares
+6. retículo endoplasmático liso sistema de membranas y canales que facilita el transporte de sustancias por el interior de la célula
+7. aparato de Golgi conjunto de sáculos y túbulos encargado de transformar, transportar y eliminar los productos químicos necesarios para la actividad celular: es la «fábrica» de la célula
+8. membrana nuclear envoltura propia del núcleo que lo mantiene separado del citoplasma
+9. citoplasma sustancia de consistencia gelatinosa que ocupa el interior de la célula y en la que están inmersos el núcleo y todas las organelas
+10. nucléolo pequeño cuerpo esférico contenido en el núcleo que envía mensajes a los ribosomas del citoplasma para que fabriquen las proteínas
+11. mitocondria organela de forma alargada y tabicada donde se produce la combustión de los nutrientes: es una «central energética» de la célula
+12. núcleo formación esférica que contiene el material genético responsable del funcionamiento celular y de la transmisión de los caracteres hereditarios
+13. lisosoma diminuta bolsa que contiene en su interior enzimas y se encarga de digerir los alimentos y degradar los residuos de la célula
+14. ribosoma organela con forma de grano encargada de fabricar proteínas
+15. microtúbulos filamentos tubulares que forman una especie de esqueleto interno de la célula y contribuyen a mantener su forma
+16. centríolos organelas tubulares que intervienen en el proceso de división celular
+
+Organelas celulares
+Se llaman organelas (u orgánulos) las diminutas estructuras que flotan en el citoplasma y desarrollan funciones específicas que resultan indispensables para la vida de la célula: síntesis de proteínas, obtención de energía, digestión de alimentos... Son el equivalente en la célula de los complejos órganos de nuestro cuerpo.
+núcleo celular Estructura de un cromosoma Representación de la cadena de adn cromosomas en la división celular membrana nuclear cromatina nucléolo poro nuclear brazo largo desoxirribosa fosfato puentes de hidrógeno adenina guanina timina citosina (A) (G) (t) (c) centrómero brazo corto adn Las células humanas son de tipo eucariota, puesto que constan de un núcleo separado del citoplasma por una membrana propia en cuyo interior se encuentran los elementos que contienen la información hereditaria y rigen todas las funciones celulares. Dicha información está en unas moléculas de ácido desoxirribonucleico (ADN), sustancia que cuando la célula está en fase de reposo se encuentra dispersa en el núcleo en forma de cromatina, mientras que en el momento de la división celular se condensa y adopta la forma de unos bastoncillos denominados cromosomas.
+
+Cada cromosoma está formado básicamente por un filamento de ADN, de longitud variable, y en su centro se aprecia una constricción, denominada centrómero, que lo divide en dos brazos de longitud desigual, uno corto y otro largo.
+
+El ADN está formado por dos filamentos compuestos por moléculas de desoxirribosa y fosfatos enroscados en doble hélice y unidos mediante unas bases nitrogenadas enlazadas por puentes de hidrógeno, como si se tratara de una escalera de caracol. Hay cuatro tipos de bases nitrogenadas, denominadas adenina, guanina, timina y citosina, cuya relación es complementaria, puesto que cada una sólo puede vincularse con otra específica. La sucesión de estos elementos determina la constitución de los genes, que corresponden a fragmentos específicos de ADN y constituyen las unidades funcionales que determinan los caracteres hereditarios.

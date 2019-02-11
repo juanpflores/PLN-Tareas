@@ -1,0 +1,72 @@
+Energía sonora
+La energía sonora (o energía acústica) es la energía que transmiten o transportan las ondas sonoras. Procede de la energía vibracional del foco sonoro y se propaga a las partículas del medio que atraviesan en forma de energía cinética (movimiento de las partículas), y de energía potencial (cambios de presión producidos en dicho medio,o presión sonora). Al irse propagando el sonido a través del medio, la energía se transmite a la velocidad de la onda, pero una parte de la energía sonora se disipa en forma de energía térmica.1 La energía acústica suele tener valores absolutos bajos, y su unidad de medida es el joule (J). Aunque puede calcularse a partir de otras magnitudes como la intensidad sonora, también se pueden calcular otras magnitudes relacionadas,como la densidad o el flujo de energía acústica.
+A partir de la definición de intensidad acústica, se puede calcular la energía acústica que atraviesa una superficie A:
+E_{{son}}=\int _{A}\left[\int _{0}^{{\Delta t}}I_{{son}}({\mathbf  {r}},t)\ dt\right]dA
+Donde:
+I_{{son}} es la intensidad acústica, que es función del punto escogido y del tiempo.
+\Delta t el intervalo de tiempo durante el que se pretende medir la energía sonora.
+Índice  [ocultar] 
+1 Densidad de energía acústica
+2 Flujo de energía sonora
+3 Conservación de la energía acústica
+4 Disipación de la energía acústica
+4.1 Coeficiente de absorción acústica, α
+5 Transductores acústicos
+6 Referencias
+Densidad de energía acústica[editar · editar código]
+
+La densidad de energía acústica o energía acústica por unidad de volumen es la cantidad media de energía acústica ( ε ) que corresponde a un volumen unidad. Equivale también al cociente entre la intensidad sonora y la velocidad del sonido.2 3 La unidad de medida es el julio por metro cúbico, J/m3
+\epsilon \ ={{\mbox{energia sonora}} \over {\mbox{volumen}}}\ ={{\mbox{intensidad}} \over {\mbox{velocidad}}}\ =\ {I \over v_{{son}}}
+Para una onda sonora plana, la densidad de energía se calcula a partir de la potencia cuadrática media (PRMS), la densidad del medio (ρo) y de la velocidad (vson2), según de la fórmula:4
+\epsilon \ ={\ P_{{RMS}}^{2} \over \rho \,\,v_{{son}}^{2}}
+La densidad de energía acústica total (cinética más potencial) equivale al producto de la densidad del medio por el cuadrado de la velocidad de las partículas en la dirección de propagación de la onda.5
+\epsilon \ =\ {\rho }_{0}u^{2}
+Flujo de energía sonora[editar · editar código]
+
+El flujo de energía acústica o sonora (simbolizado por q) se obtiene como la integral de la velocidad de la partícula v por el diferencial de la superficie A , de modo que solamente las porciones de la velocidad perpendiculares a la superficie son importantes.
+q=\int {\mathbf  {v}}\cdot {\mathrm  {d}}{\mathbf  {A}}
+La unidad de medida es el vatio, (W).
+El flujo de energía sonora señala el volumen del medio de transmisión (aire) que, debido al exceso de la presión sonora, fluye por la unidad de tiempo(1 s) por una superficie A. Es la media del flujo de energía sonora para un período a través de un área especificada.
+En un medio de transmisión de densidad ρ, para ondas planas o esféricas libres que tengan una velocidad de propagación v, el flujo de energía a través del área A correspondiente a una presión sonora p es:
+J = (p2A / ρ v) cos θ
+donde θ = ángulo entre la dirección de propagación del sonido y la dirección normal (perpendicular) al área A.
+Podemos distinguir entre flujo de energía acústica transmitida, flujo de energía acústica reflejada, flujo de energía acústica disipada y flujo de energía acústica incidente.
+
+
+El micrófono convierte una señal sonora en una señal eléctrica, que luego es amplificada mediante un suministro adicional de energía eléctrica eléctrica.
+Conservación de la energía acústica[editar · editar código]
+
+Como el resto de manifestaciones de la energía, debe cumplirse el principio de conservación de la energía. Si no hay otro tipo de transformaciones de energía, la energía incidente será igual a la suma de las energías transmitida, disipada y reflejada.
+E_{{trans}}\,+\,E_{{disi}}\,+\,E_{{refle}}\,=\,E_{{incid}}
+Disipación de la energía acústica[editar · editar código]
+
+Al propagarse la energía acústica, una parte de la misma se disipa en el medio transmisor. En el caso del aire, esta absorción atmosférica se debe a la amortiguación que sufren las ondas sonoras por el rozamiento interno y la conductividad calorífica del aire. Esa energía disipada se trransforma en calor o energía térmica.
+Coeficiente de absorción acústica, α[editar · editar código]
+Es el cociente entre la suma de los flujos de energía acústica transmitida y disipada, y el flujo de energía acústica incidente.6
+{\alpha }\,=\,{{E_{{trans}}\,+\,E_{{disi}}} \over E_{{inci}}}
+También se define como el cociente entre la energía absorbida por un material y la energía que incide sobre él.7
+{\alpha }\,=\,{{E_{{inci}}\,-\,E_{{refl}}} \over E_{{inci}}}
+Equivale a la diferencia entre la unidad y el coeficiente de reflexión,8
+{\alpha }\,=\,1\,-\,R
+Transductores acústicos[editar · editar código]
+
+Los transductores son dispositivos que transforman un tipo de energía en otra. Los micrófonos y altavoces son transductores acústicos que transforman la energía acústica en energía eléctrica, o viceversa.
+
+
+El altavoz convierte energía eléctrica en energía acústica.
+Un micrófono es un dispositivo que capta ondas sonoras de una determinada energía acústica y las transforma en una corriente eléctrica que reproduce
+las características de la onda sonora original. En primer lugar, una lámina elástica fina, llamada diafragma, capta las variaciones de presión del medio de transmisión y las convierte en vibraciones mecánicas. A continuación, las vibraciones mecánicas del diafragma generan una señal eléctrica de voltaje e intensidad proporcionales.9
+Un altavoz funciona a la inversa, es decir, convierte energía eléctrica en energía acústica. En primer lugar, la señal eléctrica de entrada produce fuerzas electromagnéticas que provocan el movimiento de la membrana del altavoz. Ese movimiento mueve las partículas en contacto con la membrana y produce ondas de presión en el aire o el medio de transmisión que lo rodea.10
+La potencia eléctrica del altavoz condiciona su potencia sonora y la energía acústica transmitida al medio. De ella también depende la cantidad de aire que se pone en movimiento y las diferencias de presión entre unos puntos y otros. La frecuencia de la señal eléctrica determina la frecuencia o tono del sonido producido.
+Referencias[editar · editar código]
+
+Ir a ↑ Física conceptual. Paul G. Hewitt. Pearson Educación. México, 2004. ISBN: 970-26-0447-8
+Ir a ↑ Anales de la Sociedad Científica Argentina, Volumen 148.
+Ir a ↑ Electroacústica. M.A. Saposhkov. Editorial Reverté. Barcelona, 1983. Pág. 9. ISBN:8429143505
+Ir a ↑ "Manual de Acústica, Ruidos y Vibraciones". Pedro Flores Pereita. Cap.II. Inasel. ISBN: 84-87579-00-0
+Ir a ↑ http://books.google.es/books?id=TdsjY8ca3S0C Waves in fluids. James Lighthill. Cambridge University Press.Cambridge, 2005. ISBN: 0-521-01045-4
+Ir a ↑ Diccionario de tecnología ferroviaria: glosario de términos ferroviarios. Mario León. Editorial Babel. Madrid, 2005. Pág. 128. ISBN: 84-7978-696-5
+Ir a ↑ Arquitectura acústica: poética y diseño. Francesc Daumal Domènech. Ediciones UPC. Barcelona, 2002. ISBN: 84-8301-638-9 Pág. 326
+Ir a ↑ Aislamiento acústico y térmico en la construcción. Claude Rougeron. Editores técnicos asociados. Barcelona, 1977. ISBN: 84-7146-097-1
+Ir a ↑ Curso de Acústica. Grupo de Acústica. Universidad del País Vasco.
+Ir a ↑ Altavoces. Curso de Acústica. Grupo de Acústica. Universidad del País Vasco.

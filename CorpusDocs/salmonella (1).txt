@@ -1,0 +1,92 @@
+Salmonella
+Commons-emblem-notice.svg Salmonella
+SalmonellaNIAID.jpg
+Microscopía electrónica de Salmonella typhimurium
+Clasificación científica
+Reino:	Bacteria
+Filo:	Proteobacteria
+Clase:	Gammaproteobacteria
+Orden:	Enterobacteriales
+Familia:	Enterobacteriaceae
+Género:	Salmonella
+Especies
+(ver taxonomía)
+S. bongori
+S. enterica
+S. choleraesuis
+S. enteritidis
+S. nyanza
+S. paratyphi
+S. typhi
+S. typhimurium
+S. virginia
+Salmonella es un género de bacterias que pertenece a la familia Enterobacteriaceae, formado por bacilos gramnegativos, anaerobios facultativos, con flagelos perítricos y que no desarrollan cápsula (excepto la especie S. typhi[cita requerida]) ni esporas. Son bacterias móviles que producen ácido sulfhídrico (H2S). Emplean glucosa por poseer una enzima especializada, pero no lactosa, y no producen ureasa. No tienen metabolismo fermentativos.
+Es un agente productor de zoonosis de distribución universal. Se transmite por contacto directo o contaminación cruzada durante la manipulación, en el procesado de alimentos o en el hogar, también por vía sexual.
+Algunas salmonellas son comunes en la piel de tortugas y de muchos reptiles, lo cual puede ser importante cuando se manipulan a la vez este tipo de mascotas y alimentos.
+El hábitat natural de esta especie normalmente son en los intestinos de los animales y los seres humanos.
+Índice  [ocultar] 
+1 Taxonomía
+2 Epidemiología
+3 Microbiología
+4 Patogenia
+4.1 Virulencia
+5 Profilaxis
+5.1 Fiebre enterica
+6 Véase también
+7 Referencias
+8 Enlaces externos
+Taxonomía[editar · editar código]
+
+El género Salmonella es de taxonomía difícil, modificada en estos últimos años por el aporte de estudios moleculares de homología de ADN que han clarificado el panorama taxonómico de las enterobacterias.
+Para la bacteriología clínica, Salmonella es un bacilo patógeno primario (como Shigella, Yersinia y ciertas cepas de E. coli), anaerobio facultativo, algunos móviles y no fermentan la lactosa. S. typhi es la única serovariedad que no produce gas en la fermentación de los azúcares.
+Clásicamente se distinguían tres únicas especies patógenas primarias: S. typhy, S. cholerae-suis y S. enteritidis. A su vez, según la serotipificación de Kauffman y White, eran clasificadas en más de 2000 serotipos con base en los antígenos flagelares H (proteicos) y antígenos somáticos O (fracción polisacárida del lipopolisacárido bacilar). S. typhi posee además un antígeno de virulencia (Vi).
+El tratamiento taxonómico actual de Salmonella ha simplificado el espectro, reagrupando todas las cepas (patógenas o no) en dos únicas especies: S. enterica y S. bongori. Ésta última (previamente subespecie V) no es patógena para el ser humano.
+La especie S. enterica tiene seis subespecies (a veces presentadas como subgrupos bajo numeración romana):
+I enterica
+II salamae
+IIIa arizonae
+IIIb diarizonae
+IV houtenae
+V S. bongori, ya incluida en una especie distinta
+VI indica
+Cada subespecie a su vez, está conformada por diversos serotipos, habiéndose identificado hasta la fecha más de 2500. Una de ellas es S. enterica subsp. enterica (o subgrupo I), se divide en cinco serogrupos: A, B, C, D y E. Cada serogrupo comprende múltiples componentes, son las serovariedades (serotipos).
+Esta clasificación implica una terminología de uso poco práctico en la clínica bacteriológica, por lo tanto, en términos médicos, la nomenclatura es diferente y simplificada, pues se consideran los nombres de los serotipos (serovaridades) de Salmonella como si fuesen nombres de especies. Por ejemplo, "Salmonella enterica subgrupo entérica serotipo Typhimurium", se refiere como "Salmonella typhimurium". Estas denominaciones, aunque menos correctas desde el punto de vista taxonómico estricto, son de aceptación mundial.
+Importancia clínico epidemiológica, las más de 2000 serovariedades de Salmonella pueden agruparse en tres divisiones ecológicas (spp. son subespecies):
+Salmonella spp. adaptadas a vivir en el ser humano, entre ellas, S. typhi, S. paratyphi A, B y C;
+Salmonella spp. adaptadas a hospederos no humanos, que circunstancialmente pueden producir infección en el hombre, entre ellas, S. dublin y S. cholerae-suis;
+Salmonella spp. sin adaptación específica de hospedero, que incluye a unas 1800 serovariedades de amplia distribución en la naturaleza, las cuales causan la mayoría de las salmonelosis en el mundo.
+Epidemiología[editar · editar código]
+
+Véase también: Salmonelosis
+La Salmonela recibe su nombre por Daniel Elmer Salmon, un patólogo veterinario estadounidense, aunque fue su colega y contemporario Theobald Smith (conocido por su trabajo con anafilaxis) quien descubrió la bacteria en 1885, aislándola de cerdos con cólera.1 2 La salmonelosis entérica está habitualmente causada por Salmonella enterica subespecie enterica, con más de 2.000 cepas descritas,3 es de importancia en países en desarrollo, donde su incidencia está en aumento, y en algunos países, la enfermedad es endémica.4
+La salmonelosis es una enfermedad de transmisión alimentaria, en especial por alimentos de origen animal y pueden aparecer en brotes en escuelas, guarderías, restaurantes y residencias de ancianos. El período de incubación es por lo general entre 12 a 36 horas, a veces hasta 6 y 48 horas.
+El tamaño del inóculo de Salmonella requerido para causar enfermedad sintomática en adultos sanos no está bien establecido. En general, es necesaria una inoculación relativamente grande, entre 10^5 y 10^6 organismos.5 En un humano voluntario, apenas 25 organismos fueron suficientes para producir la enfermedad. En otro estudio con 12 voluntarios, que ingirieron entre 17 y 10^{11} organismos, en más de la mitad de los casos menos de 1000 organismos fueron suficientes.6
+Al ser estas bacterias muy poco resistentes a los medios ácidos, no sobreviven en el estómago. Sin embargo, un pH estomacal artificialmente elevado, poco ácido, reduce enormemente el número de organismos necesario para provocar síntomas. Los organismos que llegan hasta el intestino se topan con otras dos defensas: la rapidez del tránsito intestinal, y la flora bacteriana normal. Los que logran vencer estas defensas, se adhieren a la mucosas y producen, bien un patrón secretor (diarrea aguda acuosa), bien un patrón invasor (enfermedad clínica conocida como fiebre entérica, fiebre tifoidea o fiebre paratifoidea).5 6
+La salmonella habita normalmente en la superficie de los huevos, la piel de tomates y de aquellos frutos y verduras que tienen contacto con la tierra.
+La fiebre tifoidea es otra de las enfermedades que pueden ser ocasionadas por bacterias del género Salmonella. Habitualmente esta enfermedad está provocada por cepas de Salmonella enterica susp. enterica serotipo Typhi (Salmonella Typhi). El único reservorio de la Salmonella Typhi es el hombre, de modo que se transmite de una persona a otra.7
+La fiebre paratifoidea tiene ciertas similitudes con la fiebre tifoidea, pero tiene un curso más benigno. Esta enfermedad está habitualmente ocasionada por los serotipos Paratyphi A, Paratyphi B y Paratyphi C. Las infecciones por S. Paratyphi A son comunes en África, la paratifoidea B es más frecuente en Europa que se presenta como una gastroenteritis severa y la paratifoidea C es una infección rara, generalmente vista en el Extremo Oriente que se presenta como una septicemia.
+Microbiología[editar · editar código]
+
+Salmonella crece con facilidad en agar sangre formando colonias de 2 a 3 milímetros. En laboratorios de microbiología clínica se aísla con medios selectivos, Selenito, Hektoen, SS o XLD para inhibir el crecimiento de otras bacterias patógenas y de la flora intestinal saprófita. Tienen los siguientes antígenos:
+Somático O, del lipopolisacárido en la pared celular, termoestable y es la base de la clasificación en subgrupos.
+Flagelar H, de la proteína flagelina, termolábil, es la base de la clasificación de especies.
+Envoltura Vi, termolábil, responsable de la virulencia de varias especies patogénicas.
+Patogenia[editar · editar código]
+
+Artículo principal: Salmonelosis
+Produce salmonelosis con un periódo de incubación de entre 5 horas y 5 días, diarrea y dolor abdominal. A través de las heces (excremento) del enfermo se elimina un gran número de esta bacteria y se observa fiebre entérica con un periodo de incubación de 7 a 28 días, causante de dolor de cabeza, fiebre, dolor abdominal y diarrea, erupción máculo-papulosa en pecho y espalda. Los enfermos presentan un período de convalecencia entre 1 y 8 semanas y las personas curadas eliminan Salmonella. También puede ocasionar fiebres entéricas o infección intestinal por intoxicación con algunos alimentos.
+Virulencia[editar · editar código]
+Salmonella, al igual que otras bacteria Gram negativas, usa un sistema secretor especializado (denominado tipo III) para inyectar dentro de células eucariotas ciertas proteínas efectoras que manipulan las vías de señalización celular y de la bacteria. Se ha observado la entrega de la proteína SipA a células que debilitan la maquinaria intracelular del huésped y promueven la virulencia en mamíferos en aproximadamente 10 minutos, dejando la bacteria virtualmente deprovista de SipA, efectivamente estableciendo un nicho para la multiplicación intracelular de la bacteria.8 9
+Profilaxis[editar · editar código]
+
+La prevención de Salmonella como contaminante de alimentos involucra el asear eficazmente las superficies de contacto con los alimentos. El alcohol ha sido efectivo como agente desinfectante tópico en su contra, así como el cloro. La comida que contenga huevos crudos debe ser cocinada adecuadamente o congelada antes de consumirla.
+Cualquier alimento cocinado de manera imperfecta o no cocinado, especialmente en carne, aves, huevos (porque este sale por el mismo conducto de las heces y como la salmonella es una enobacteria se contamina el huevo, por eso es importante tener prácticas de higiene en la manipulación de estos) y leche, es un buen vehículo de transmisión.
+Su tiempo de supervivencia en alimentos a temperatura ambiente es de varios días llegando incluso a los límites siguientes:[cita requerida]
+mantequilla: hasta 10 semanas
+leche: hasta 6 meses
+chocolate: varios meses
+Existen unos métodos destinados a evitar la proliferación de este género en los alimentos, por ejemplo, destruir la bacteria en los alimentos mediante la cocción, evitar la contaminación cruzada durante la manipulación de los mismos y almacenar los alimentos a bajas o altas temperaturas para evitar su crecimiento.
+Fiebre enterica[editar · editar código]
+Son cuadros en los que la clínica sistémica predomina sobre la diges-tiva: fiebre (que suele ser el signo más precoz), cefalea, leucopenia sineosinofilia, dolor abdominal, esplenomegalia y bradi-cardia relativa (para la temperatura corporal). Se deben a bacterias q u epenetran la mucosa intestinal intacta (por eso producen escasa clínicaa nivel digestivo), alcanzan las placas d e Peyer d e la submucosa y gan-glios linfáticos peridigestivos, y desde ahí pasan al torrente circulatorio,dando lugar al cuadro sistémico, este grupo pertenece Yersinia enterocolitica (puede producir doloren fosa ilíaca derecha y odinofagia), así como Salmonella typhi y para-typhi, que producen la fiebre tifoidea (en definitiva, un tipo de fiebreentérica como la descrita). El cuadro sistémico descrito se puede acom-pañar de un exantema macular (roséola tifoidea) en tórax y abdomen,que cede de forma espontánea en pocos días, así como de alteracionesdel nivel de consciencia en la fiebre tifoidea (que aparecen sobre todoal inicio de la segunda semana). Puede existir perforación intestinal enun 5% de loscasos, complicación quese deberá sospechar en presen-cia de dolor abdominal brusco y rápida elevación del recuento leuco-citario. El diagnóstico de elección de la fiebre tifoidea es el cultivo, yasea mediante la obtención de hemocultivos en las dos primeras sema-nas (es el procedimiento más rentable para el diagnóstico precoz, conmayor rentabilidad en la primera semana) o mediante el cultivo de lasheces a partir de la tercera semana.Debido a la aparición de cepas de S. typhi resistentes a diversosantibióticos, el tratamiento recomendado actualmente son las fluo-roquinolonas o cefalosporinas de tercera generación (de elecciónen presencia de bacteriemia).En las formas más graves puede ser útil asociar esteroides. Si bienel cloranfenicol demuestra menor tasa d e resistencia y menor i n -cidencia de estado de portador crónico, el riesgo de desarrollode anemia aplásica idiosincrásica e irreversible (en uno de cada 20.000 tratamientos) limita su empleo en nuestro medio. A pesardel tratamiento correcto, la tasa de recaídas en los sujetos inmuno-competentes llega al 1 0 % . 
+Además, la Salmonella puede quedarse acantonada en el aparato diges-tivo, sobre todo en la vesícula biliar y más frecuentemente en mujerescon colelitiasis, dando lugar a portadores crónicos que eliminan bac-terias continuamente por las heces, lo que tiene gran transcendencia anivel epidemiológico . La pauta de elección para elportador crónico es el tratamiento prolongado con fluoroquinolonas(ciprofloxacino); en caso de que exista colelitiasis, puede llegar a sernecesaria la colecistectomía. El diagnóstico en general de las diarreas bacterianas se realiza median-te coprocultivo. El tratamiento de la diarrea bacteriana depende de la gravedad del cua-dro y del grado de deshidratación que produzca; lo más importante esmantener una adecuada hidratación del paciente, por vía intravenosaen casos graves o por vía oral si es posible (suero de rehidratación oralde la OMS).
+Además, la Salmonella puede quedarse acantonada en el aparato diges-tivo, sobre todo en la vesícula biliar y más frecuentemente en mujerescon colelitiasis, dando lugar a portadores crónicos que eliminan bac-terias continuamente por las heces, lo que tiene gran transcendencia anivel epidemiológico . La pauta de elección para elportador crónico es el tratamiento prolongado con fluoroquinolonas(ciprofloxacino); en caso de que exista colelitiasis, puede llegar a sernecesaria la colecistectomía . El diagnóstico en general de las diarreas bacterianas se realiza median-te coprocultivo. El tratamiento de la diarrea bacteriana depende de la gravedad del cua-dro y del grado de deshidratación que produzca; lo más importante esmantener una adecuada hidratación del paciente, por vía intravenosaen casos graves o por vía oral si es posible (suero de rehidratación oralde la OMS). 

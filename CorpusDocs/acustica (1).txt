@@ -1,0 +1,42 @@
+Onda sonora
+Ondes compression 2d 20 petit.gif
+Una onda sonora es una onda longitudinal que transmite lo que se asocia con sonido. Si se propaga en un medio elástico y continuo genera una variación local de presión o densidad, que se transmite en forma de onda esférica periódica o cuasiperiódica. Mecánicamente las ondas sonoras son un tipo de onda elástica.
+Las variaciones de presión, humedad o temperatura del medio, producen el desplazamiento de las moléculas que lo forman. Cada molécula transmite la vibración a las que se encuentren en su vecindad, provocando un movimiento en cadena. Esa propagación del movimiento de las moléculas del medio, producen en el oído humano una sensación descrita como sonido.
+
+Índice  [ocultar] 
+1 Propagación de ondas
+1.1 Modo de propagación
+1.2 Propagación en medios
+2 Percepción humana de las ondas sonoras
+3 Véase también
+Propagación de ondas[editar · editar código]
+
+Modo de propagación[editar · editar código]
+El sonido está formado por ondas mecánicas elásticas longitudinales u ondas de compresión en un medio. Eso significa que:
+Para propagarse precisan de un medio material (aire, agua, cuerpo sólido) que transmita la perturbación (viaja más rápido en los sólidos, luego en los líquidos aún más lento en el aire, y en el vacío no se propaga). Es el propio medio el que produce y propicia la propagación de estas ondas con su compresión y expansión. Para que pueda comprimirse y expandirse es imprescindible que éste sea un medio elástico, ya que un cuerpo totalmente rígido no permite que las vibraciones se transmitan. Así pues, sin medio elástico no habría sonido, ya que las ondas sonoras no se propagan en el vacío.
+Además, los fluidos sólo pueden transmitir movimientos ondulatorios en que la vibración de las partículas se da en dirección paralela a la velocidad de propagación a lo largo de la dirección de propagación. Así los gradientes de presión que acompañan a la propagación de una onda sonora se producen en la misma dirección de propagación de la onda, siendo por tanto éstas un tipo de ondas longitudinales (en los sólidos también pueden propagarse ondas elásticas transversales).
+Propagación en medios[editar · editar código]
+Las ondas sonoras se desplazan también en tres dimensiones y sus frentes de onda en medios isótropos son esferas concéntricas que salen desde el foco de la perturbación en todas las direcciones. Por esto son ondas esféricas. Los cambios de presión p2 que tienen lugar al paso de una onda sonora tridimensional de frecuencia ν y longitud de onda λ en un medio isótropo y en reposo vienen dados por la ecuación diferencial:
+
+
+Ondas sonoras generadas por un avión que posee una velocidad menor e igual a la del sonido.
+(*){\frac  {1}{r^{2}}}{\frac  {\partial }{\partial r}}\left(r^{2}{\frac  {\partial p(r,t)}{\partial r}}\right)-{\frac  {1}{c^{2}}}{\frac  {\partial ^{2}p(r,t)}{\partial t^{2}}}=0
+donde r es la distancia al centro emisor de la onda, y c es la velocidad de propagación de la onda. Para una onda de período bien definido c=\lambda \nu  y en ese caso la solución de la ecuación, a grandes distancias de la fuente emisora se puede escribir como:
+p(r,t)=p_{0}+{\frac  {\Delta p}{r}}\sin \left(2\pi \nu t-2\pi {\frac  {r}{\lambda }}+\phi _{0}\right)
+Donde p_{0},\Delta p\, son respectivamente la presión de inicial del fluido y la sobrepresión máxima que ocasiona el paso de la onda.
+En el caso de las ondas sonoras ordinarias, casi siempre son la superposición de ondas de diferentes frecuencias y longitudes de onda, y forman pulsos de duración finita. Para estas ondas sonoras la velocidad de fase no coincide con la velocidad de grupo o velocidad de propagación del pulso. La velocidad de fase es diferente para cada frecuencia y depende al igual que antes de la relación c=ν•λ. El hecho de que la velocidad de fase sea diferente para cada frecuencia, es responsable de la distorsión del sonido a grandes distancias. En ese caso la solución general de (*) viene dada por:
+p(r,t)=p_{0}+{\frac  {\Delta p}{r}}\int _{{\mathbb{R} ^{3}}}A({\mathbf  {k}})\sin \left(\omega t-\|{\mathbf  {k}}\|r\right)\ d^{3}{\mathbf  {k}}
+donde:
+A({\mathbf  {k}}) la amplitud normalizada para el componente {\mathbf  {k}}.
+{\mathbf  {k}}, es el vector de onda.
+\omega =c\|{\mathbf  {k}}\|, es la frecuencia angular.
+Percepción humana de las ondas sonoras[editar · editar código]
+
+El hercio (Hz) es la unidad que expresa la cantidad de vibraciones que emite una fuente sonora por unidad de tiempo (frecuencia). Se considera que el oído humano puede percibir ondas sonoras de frecuencias entre los 20 y los 20.000 Hz, si bien también se consideran rangos entre 16 Hz (aproximadamente la nota más grave de un órgano de iglesia: do0 = 16,25 Hz) y 16.000 Hz (o 16 kHz). Las ondas que poseen una frecuencia inferior a la audible se denominan infrasónicas y las superiores ultrasónicas.
+La sensación de sonoridad es la percepción sonora que el hombre tiene de la intensidad de un sonido. La sonoridad se mide mediante una magnitud llamada fonio, que utiliza una escala arbitraria cuyo cero (el llamado umbral de audición) corresponde a I0=1 × 10-12 W/m² a 1 kHz.
+Véase también[editar · editar código]
+
+Onda
+Batimiento
+Propagación del sonido
+Sonido
